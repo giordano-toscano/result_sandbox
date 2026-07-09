@@ -1,0 +1,1521 @@
+algorithm,dataset,repetition,quality,supp+,time
+SMHDD (local),alon_og_labeled,1,32.9,0.975,4.59
+SMHDD (local),alon_og_labeled,2,33.2,0.95,4.952
+SMHDD (local),alon_og_labeled,3,32.3,0.95,3.916
+SMHDD (local),alon_og_labeled,4,32.3,0.95,2.959
+SMHDD (local),alon_og_labeled,5,33.6,1.0,3.662
+SMHDD (local),alon_og_labeled,6,34.8,1.0,8.231
+SMHDD (local),alon_og_labeled,7,32.7,0.975,3.547
+SMHDD (local),alon_og_labeled,8,32.9,1.0,4.273
+SMHDD (local),alon_og_labeled,9,32.7,0.975,4.204
+SMHDD (local),alon_og_labeled,10,34.0,1.0,4.892
+SMHDD (local),burczynski_og_labeled,1,43.5,0.8305084745762712,64.94
+SMHDD (local),burczynski_og_labeled,2,43.0,0.847457627118644,61.639
+SMHDD (local),burczynski_og_labeled,3,43.8,0.9322033898305084,84.179
+SMHDD (local),burczynski_og_labeled,4,45.6,0.9830508474576272,94.092
+SMHDD (local),burczynski_og_labeled,5,44.6,0.9661016949152542,94.226
+SMHDD (local),burczynski_og_labeled,6,43.5,0.7966101694915254,75.806
+SMHDD (local),burczynski_og_labeled,7,45.8,0.9830508474576272,107.944
+SMHDD (local),burczynski_og_labeled,8,44.6,0.9491525423728814,84.69
+SMHDD (local),burczynski_og_labeled,9,41.5,0.7966101694915254,65.219
+SMHDD (local),burczynski_og_labeled,10,43.8,0.8305084745762712,77.501
+SMHDD (local),chiaretti_og_labeled,1,63.9,1.0,182.755
+SMHDD (local),chiaretti_og_labeled,2,64.9,0.972972972972973,118.035
+SMHDD (local),chiaretti_og_labeled,3,52.9,0.9864864864864865,66.465
+SMHDD (local),chiaretti_og_labeled,4,66.1,1.0,193.616
+SMHDD (local),chiaretti_og_labeled,5,65.2,0.972972972972973,151.413
+SMHDD (local),chiaretti_og_labeled,6,58.5,0.972972972972973,132.301
+SMHDD (local),chiaretti_og_labeled,7,64.5,0.9594594594594594,135.927
+SMHDD (local),chiaretti_og_labeled,8,63.0,0.972972972972973,111.032
+SMHDD (local),chiaretti_og_labeled,9,52.0,0.9594594594594594,69.651
+SMHDD (local),chiaretti_og_labeled,10,64.0,1.0,107.062
+SMHDD (local),chin_og_labeled,1,68.4,0.9866666666666667,190.168
+SMHDD (local),chin_og_labeled,2,67.9,1.0,134.506
+SMHDD (local),chin_og_labeled,3,67.1,0.9866666666666667,169.219
+SMHDD (local),chin_og_labeled,4,66.5,1.0,141.524
+SMHDD (local),chin_og_labeled,5,67.8,0.9866666666666667,201.646
+SMHDD (local),chin_og_labeled,6,68.2,0.9866666666666667,168.969
+SMHDD (local),chin_og_labeled,7,67.5,1.0,170.704
+SMHDD (local),chin_og_labeled,8,68.1,0.9866666666666667,157.918
+SMHDD (local),chin_og_labeled,9,68.4,1.0,129.905
+SMHDD (local),chin_og_labeled,10,68.1,1.0,159.501
+SMHDD (local),chowdary_og_labeled,1,54.8,0.9838709677419355,26.842
+SMHDD (local),chowdary_og_labeled,2,54.8,0.9838709677419355,33.79
+SMHDD (local),chowdary_og_labeled,3,54.8,0.9838709677419355,25.844
+SMHDD (local),chowdary_og_labeled,4,54.6,0.9838709677419355,28.153
+SMHDD (local),chowdary_og_labeled,5,54.6,0.9838709677419355,30.925
+SMHDD (local),chowdary_og_labeled,6,54.7,0.9838709677419355,39.476
+SMHDD (local),chowdary_og_labeled,7,54.5,0.9838709677419355,38.68
+SMHDD (local),chowdary_og_labeled,8,54.4,0.9838709677419355,31.437
+SMHDD (local),chowdary_og_labeled,9,54.6,0.9838709677419355,34.43
+SMHDD (local),chowdary_og_labeled,10,54.7,0.9838709677419355,44.504
+SMHDD (local),christensen_og_labeled,1,102.4,1.0,1.7
+SMHDD (local),christensen_og_labeled,2,103.4,1.0,2.054
+SMHDD (local),christensen_og_labeled,3,103.8,1.0,2.164
+SMHDD (local),christensen_og_labeled,4,102.6,1.0,1.835
+SMHDD (local),christensen_og_labeled,5,102.4,1.0,1.669
+SMHDD (local),christensen_og_labeled,6,103.4,1.0,1.764
+SMHDD (local),christensen_og_labeled,7,102.2,1.0,1.834
+SMHDD (local),christensen_og_labeled,8,103.0,1.0,1.874
+SMHDD (local),christensen_og_labeled,9,104.0,1.0,1.977
+SMHDD (local),christensen_og_labeled,10,103.0,1.0,1.799
+SMHDD (local),golub_og_labeled,1,42.9,1.0,10.104
+SMHDD (local),golub_og_labeled,2,42.9,1.0,12.668
+SMHDD (local),golub_og_labeled,3,43.3,1.0,9.682
+SMHDD (local),golub_og_labeled,4,43.1,1.0,10.373
+SMHDD (local),golub_og_labeled,5,43.3,1.0,10.715
+SMHDD (local),golub_og_labeled,6,43.4,1.0,10.868
+SMHDD (local),golub_og_labeled,7,43.2,1.0,9.565
+SMHDD (local),golub_og_labeled,8,43.5,1.0,10.736
+SMHDD (local),golub_og_labeled,9,43.4,1.0,10.023
+SMHDD (local),golub_og_labeled,10,42.6,1.0,9.785
+SMHDD (local),gordon_og_labeled,1,136.7,1.0,20.912
+SMHDD (local),gordon_og_labeled,2,136.6,1.0,16.707
+SMHDD (local),gordon_og_labeled,3,136.9,1.0,23.649
+SMHDD (local),gordon_og_labeled,4,136.5,1.0,26.796
+SMHDD (local),gordon_og_labeled,5,136.5,1.0,22.165
+SMHDD (local),gordon_og_labeled,6,136.5,1.0,16.587
+SMHDD (local),gordon_og_labeled,7,137.2,1.0,24.836
+SMHDD (local),gordon_og_labeled,8,136.6,1.0,17.202
+SMHDD (local),gordon_og_labeled,9,136.6,1.0,17.679
+SMHDD (local),gordon_og_labeled,10,136.7,1.0,18.045
+SMHDD (local),gravier_og_labeled,1,76.7,0.7657657657657657,33.75
+SMHDD (local),gravier_og_labeled,2,74.4,0.7747747747747747,35.269
+SMHDD (local),gravier_og_labeled,3,75.5,0.7567567567567568,31.389
+SMHDD (local),gravier_og_labeled,4,76.6,0.8738738738738738,33.855
+SMHDD (local),gravier_og_labeled,5,74.0,0.7297297297297297,28.642
+SMHDD (local),gravier_og_labeled,6,71.3,0.8108108108108109,28.274
+SMHDD (local),gravier_og_labeled,7,76.1,0.7567567567567568,27.072
+SMHDD (local),gravier_og_labeled,8,77.4,0.7747747747747747,33.632
+SMHDD (local),gravier_og_labeled,9,75.8,0.7567567567567568,39.926
+SMHDD (local),gravier_og_labeled,10,76.1,0.7657657657657657,24.471
+SMHDD (local),khan_og_labeled,1,20.7,1.0,1.931
+SMHDD (local),khan_og_labeled,2,20.8,1.0,2.334
+SMHDD (local),khan_og_labeled,3,20.5,1.0,1.604
+SMHDD (local),khan_og_labeled,4,20.7,1.0,2.136
+SMHDD (local),khan_og_labeled,5,20.7,1.0,1.967
+SMHDD (local),khan_og_labeled,6,20.7,1.0,1.93
+SMHDD (local),khan_og_labeled,7,20.8,1.0,2.095
+SMHDD (local),khan_og_labeled,8,20.7,1.0,2.097
+SMHDD (local),khan_og_labeled,9,20.8,1.0,2.106
+SMHDD (local),khan_og_labeled,10,20.8,1.0,1.875
+SMHDD (local),nakayama_og_labeled,1,18.2,1.0,122.472
+SMHDD (local),nakayama_og_labeled,2,18.6,1.0,108.444
+SMHDD (local),nakayama_og_labeled,3,18.3,1.0,108.197
+SMHDD (local),nakayama_og_labeled,4,18.2,1.0,106.334
+SMHDD (local),nakayama_og_labeled,5,18.1,0.9523809523809523,64.575
+SMHDD (local),nakayama_og_labeled,6,16.6,0.9523809523809523,97.787
+SMHDD (local),nakayama_og_labeled,7,18.5,1.0,112.487
+SMHDD (local),nakayama_og_labeled,8,18.4,1.0,120.143
+SMHDD (local),nakayama_og_labeled,9,18.5,1.0,91.322
+SMHDD (local),nakayama_og_labeled,10,18.5,1.0,103.822
+SMHDD (local),pomeroy_og_labeled,1,32.9,0.9743589743589743,27.392
+SMHDD (local),pomeroy_og_labeled,2,35.3,0.9743589743589743,39.518
+SMHDD (local),pomeroy_og_labeled,3,30.9,1.0,25.072
+SMHDD (local),pomeroy_og_labeled,4,31.5,0.9743589743589743,33.986
+SMHDD (local),pomeroy_og_labeled,5,34.5,1.0,41.539
+SMHDD (local),pomeroy_og_labeled,6,32.2,0.9743589743589743,28.168
+SMHDD (local),pomeroy_og_labeled,7,33.4,0.9743589743589743,23.344
+SMHDD (local),pomeroy_og_labeled,8,32.4,0.9743589743589743,28.615
+SMHDD (local),pomeroy_og_labeled,9,33.5,1.0,33.249
+SMHDD (local),pomeroy_og_labeled,10,31.5,0.9743589743589743,31.518
+SMHDD (local),shipp_og_labeled,1,50.0,0.9827586206896551,11.374
+SMHDD (local),shipp_og_labeled,2,49.8,0.9827586206896551,17.517
+SMHDD (local),shipp_og_labeled,3,50.6,0.9827586206896551,18.294
+SMHDD (local),shipp_og_labeled,4,51.2,1.0,18.43
+SMHDD (local),shipp_og_labeled,5,49.4,0.9482758620689655,15.3
+SMHDD (local),shipp_og_labeled,6,49.6,0.9655172413793104,17.663
+SMHDD (local),shipp_og_labeled,7,51.8,1.0,21.203
+SMHDD (local),shipp_og_labeled,8,50.8,0.9827586206896551,22.33
+SMHDD (local),shipp_og_labeled,9,50.7,0.9827586206896551,15.953
+SMHDD (local),shipp_og_labeled,10,50.5,1.0,14.784
+SMHDD (local),singh_og_labeled,1,46.2,0.9807692307692307,54.568
+SMHDD (local),singh_og_labeled,2,46.3,0.9807692307692307,55.305
+SMHDD (local),singh_og_labeled,3,46.6,0.9807692307692307,46.533
+SMHDD (local),singh_og_labeled,4,46.7,0.9807692307692307,38.862
+SMHDD (local),singh_og_labeled,5,46.7,0.9807692307692307,47.922
+SMHDD (local),singh_og_labeled,6,46.5,0.9807692307692307,50.334
+SMHDD (local),singh_og_labeled,7,46.4,0.9807692307692307,45.246
+SMHDD (local),singh_og_labeled,8,46.4,0.9807692307692307,48.445
+SMHDD (local),singh_og_labeled,9,46.4,0.9807692307692307,51.348
+SMHDD (local),singh_og_labeled,10,46.6,0.9807692307692307,49.266
+SMHDD (local),sorlie_og_labeled,1,27.0,1.0,1.866
+SMHDD (local),sorlie_og_labeled,2,27.7,1.0,1.914
+SMHDD (local),sorlie_og_labeled,3,27.0,1.0,1.494
+SMHDD (local),sorlie_og_labeled,4,26.7,1.0,1.407
+SMHDD (local),sorlie_og_labeled,5,25.9,1.0,1.251
+SMHDD (local),sorlie_og_labeled,6,26.7,1.0,1.813
+SMHDD (local),sorlie_og_labeled,7,26.6,1.0,1.891
+SMHDD (local),sorlie_og_labeled,8,26.4,1.0,1.203
+SMHDD (local),sorlie_og_labeled,9,26.5,1.0,1.396
+SMHDD (local),sorlie_og_labeled,10,26.7,1.0,1.399
+SMHDD (local),subramanian_og_labeled,1,30.2,1.0,16.324
+SMHDD (local),subramanian_og_labeled,2,30.3,1.0,14.691
+SMHDD (local),subramanian_og_labeled,3,30.4,1.0,20.751
+SMHDD (local),subramanian_og_labeled,4,30.2,1.0,15.865
+SMHDD (local),subramanian_og_labeled,5,30.3,1.0,16.916
+SMHDD (local),subramanian_og_labeled,6,30.4,1.0,25.007
+SMHDD (local),subramanian_og_labeled,7,30.3,1.0,15.142
+SMHDD (local),subramanian_og_labeled,8,30.3,1.0,16.746
+SMHDD (local),subramanian_og_labeled,9,30.4,1.0,17.899
+SMHDD (local),subramanian_og_labeled,10,30.4,1.0,13.967
+SMHDD (local),tian_og_labeled,1,93.5,0.8102189781021898,134.155
+SMHDD (local),tian_og_labeled,2,84.7,0.708029197080292,116.557
+SMHDD (local),tian_og_labeled,3,73.3,0.5693430656934306,89.803
+SMHDD (local),tian_og_labeled,4,94.9,0.8175182481751825,303.832
+SMHDD (local),tian_og_labeled,5,72.5,0.7883211678832117,90.936
+SMHDD (local),tian_og_labeled,6,92.8,0.7445255474452555,127.367
+SMHDD (local),tian_og_labeled,7,85.6,0.927007299270073,165.849
+SMHDD (local),tian_og_labeled,8,71.8,0.5693430656934306,92.779
+SMHDD (local),tian_og_labeled,9,82.4,0.8832116788321168,132.789
+SMHDD (local),tian_og_labeled,10,79.5,0.8613138686131386,80.449
+SMHDD (local),west_og_labeled,1,20.8,1.0,11.616
+SMHDD (local),west_og_labeled,2,21.8,1.0,16.587
+SMHDD (local),west_og_labeled,3,21.3,1.0,10.81
+SMHDD (local),west_og_labeled,4,21.8,1.0,12.313
+SMHDD (local),west_og_labeled,5,22.0,1.0,15.738
+SMHDD (local),west_og_labeled,6,21.7,1.0,14.144
+SMHDD (local),west_og_labeled,7,19.6,0.88,5.732
+SMHDD (local),west_og_labeled,8,22.4,1.0,14.143
+SMHDD (local),west_og_labeled,9,20.9,1.0,10.258
+SMHDD (local),west_og_labeled,10,22.4,1.0,13.185
+SMHDD (local),yeoh_og_labeled,1,72.7,1.0,63.802
+SMHDD (local),yeoh_og_labeled,2,73.0,1.0,67.567
+SMHDD (local),yeoh_og_labeled,3,72.6,1.0,46.048
+SMHDD (local),yeoh_og_labeled,4,72.1,1.0,45.258
+SMHDD (local),yeoh_og_labeled,5,71.8,1.0,43.495
+SMHDD (local),yeoh_og_labeled,6,73.0,1.0,51.395
+SMHDD (local),yeoh_og_labeled,7,72.9,1.0,46.861
+SMHDD (local),yeoh_og_labeled,8,72.7,1.0,52.378
+SMHDD (local),yeoh_og_labeled,9,73.0,1.0,47.574
+SMHDD (local),yeoh_og_labeled,10,72.7,1.0,51.574
+SD,alon-pn-width-8_binary,1,22.6,0.625,1.332
+SD,alon-pn-width-8_binary,2,22.6,0.625,1.375
+SD,alon-pn-width-8_binary,3,22.6,0.625,1.362
+SD,alon-pn-width-8_binary,4,22.6,0.625,1.361
+SD,alon-pn-width-8_binary,5,22.6,0.625,1.361
+SD,alon-pn-width-8_binary,6,22.6,0.625,1.361
+SD,alon-pn-width-8_binary,7,22.6,0.625,1.365
+SD,alon-pn-width-8_binary,8,22.6,0.625,1.366
+SD,alon-pn-width-8_binary,9,22.6,0.625,1.361
+SD,alon-pn-width-8_binary,10,22.6,0.625,1.362
+SSDP+,alon-pn-width-8_binary,1,23.5,0.95,1.866
+SSDP+,alon-pn-width-8_binary,2,28.0,0.875,3.2
+SSDP+,alon-pn-width-8_binary,3,28.3,0.8,3.554
+SSDP+,alon-pn-width-8_binary,4,22.6,0.85,1.265
+SSDP+,alon-pn-width-8_binary,5,27.2,0.8,3.059
+SSDP+,alon-pn-width-8_binary,6,27.7,0.925,2.892
+SSDP+,alon-pn-width-8_binary,7,25.1,0.95,2.425
+SSDP+,alon-pn-width-8_binary,8,29.0,0.925,3.525
+SSDP+,alon-pn-width-8_binary,9,32.6,0.925,4.589
+SSDP+,alon-pn-width-8_binary,10,23.4,0.9,1.982
+SMHDD,alon-pn-width-8_binary,1,23.5,0.95,0.648
+SMHDD,alon-pn-width-8_binary,2,28.0,0.875,1.138
+SMHDD,alon-pn-width-8_binary,3,28.3,0.8,1.286
+SMHDD,alon-pn-width-8_binary,4,22.6,0.85,0.339
+SMHDD,alon-pn-width-8_binary,5,27.2,0.8,1.113
+SMHDD,alon-pn-width-8_binary,6,27.7,0.925,0.999
+SMHDD,alon-pn-width-8_binary,7,25.1,0.95,0.875
+SMHDD,alon-pn-width-8_binary,8,29.0,0.925,1.226
+SMHDD,alon-pn-width-8_binary,9,32.6,0.925,1.62
+SMHDD,alon-pn-width-8_binary,10,23.4,0.9,0.647
+SD,burczynski-pn-width-8_binary,1,19.8,0.8813559322033898,25.362
+SD,burczynski-pn-width-8_binary,2,19.8,0.8813559322033898,26.203
+SD,burczynski-pn-width-8_binary,3,19.8,0.8813559322033898,26.041
+SD,burczynski-pn-width-8_binary,4,19.8,0.8813559322033898,25.892
+SD,burczynski-pn-width-8_binary,5,19.8,0.8813559322033898,25.148
+SD,burczynski-pn-width-8_binary,6,19.8,0.8813559322033898,25.897
+SD,burczynski-pn-width-8_binary,7,19.8,0.8813559322033898,25.863
+SD,burczynski-pn-width-8_binary,8,19.8,0.8813559322033898,25.799
+SD,burczynski-pn-width-8_binary,9,19.8,0.8813559322033898,25.762
+SD,burczynski-pn-width-8_binary,10,19.8,0.8813559322033898,25.816
+SSDP+,burczynski-pn-width-8_binary,1,45.2,0.8983050847457628,139.34
+SSDP+,burczynski-pn-width-8_binary,2,43.6,0.8813559322033898,109.975
+SSDP+,burczynski-pn-width-8_binary,3,43.1,0.7966101694915254,98.373
+SSDP+,burczynski-pn-width-8_binary,4,43.4,0.7966101694915254,114.51
+SSDP+,burczynski-pn-width-8_binary,5,44.0,0.8813559322033898,113.142
+SSDP+,burczynski-pn-width-8_binary,6,42.9,0.7966101694915254,66.136
+SSDP+,burczynski-pn-width-8_binary,7,47.0,0.8983050847457628,152.068
+SSDP+,burczynski-pn-width-8_binary,8,46.0,0.8813559322033898,105.711
+SSDP+,burczynski-pn-width-8_binary,9,46.4,0.9152542372881356,119.821
+SSDP+,burczynski-pn-width-8_binary,10,46.0,0.8983050847457628,139.95
+SMHDD,burczynski-pn-width-8_binary,1,45.2,0.8983050847457628,41.057
+SMHDD,burczynski-pn-width-8_binary,2,43.6,0.8813559322033898,31.418
+SMHDD,burczynski-pn-width-8_binary,3,43.1,0.7966101694915254,27.24
+SMHDD,burczynski-pn-width-8_binary,4,43.4,0.7966101694915254,32.654
+SMHDD,burczynski-pn-width-8_binary,5,44.0,0.8813559322033898,31.966
+SMHDD,burczynski-pn-width-8_binary,6,42.9,0.7966101694915254,17.217
+SMHDD,burczynski-pn-width-8_binary,7,47.0,0.8983050847457628,45.423
+SMHDD,burczynski-pn-width-8_binary,8,46.0,0.8813559322033898,29.572
+SMHDD,burczynski-pn-width-8_binary,9,46.4,0.9152542372881356,37.641
+SMHDD,burczynski-pn-width-8_binary,10,46.0,0.8983050847457628,42.183
+SD,chiaretti-pn-width-8_binary,1,32.5,0.4594594594594595,17.789
+SD,chiaretti-pn-width-8_binary,2,32.5,0.4594594594594595,18.521
+SD,chiaretti-pn-width-8_binary,3,32.5,0.4594594594594595,18.23
+SD,chiaretti-pn-width-8_binary,4,32.5,0.4594594594594595,18.341
+SD,chiaretti-pn-width-8_binary,5,32.5,0.4594594594594595,18.228
+SD,chiaretti-pn-width-8_binary,6,32.5,0.4594594594594595,18.075
+SD,chiaretti-pn-width-8_binary,7,32.5,0.4594594594594595,17.833
+SD,chiaretti-pn-width-8_binary,8,32.5,0.4594594594594595,17.794
+SD,chiaretti-pn-width-8_binary,9,32.5,0.4594594594594595,17.836
+SD,chiaretti-pn-width-8_binary,10,32.5,0.4594594594594595,17.875
+SSDP+,chiaretti-pn-width-8_binary,1,47.0,0.7162162162162162,70.435
+SSDP+,chiaretti-pn-width-8_binary,2,47.8,0.7162162162162162,72.11
+SSDP+,chiaretti-pn-width-8_binary,3,48.4,0.7162162162162162,58.803
+SSDP+,chiaretti-pn-width-8_binary,4,48.6,0.7162162162162162,71.883
+SSDP+,chiaretti-pn-width-8_binary,5,47.9,0.7162162162162162,69.057
+SSDP+,chiaretti-pn-width-8_binary,6,53.4,0.8783783783783784,101.379
+SSDP+,chiaretti-pn-width-8_binary,7,53.2,0.8783783783783784,96.481
+SSDP+,chiaretti-pn-width-8_binary,8,54.8,0.8783783783783784,91.76
+SSDP+,chiaretti-pn-width-8_binary,9,50.3,0.8918918918918919,94.955
+SSDP+,chiaretti-pn-width-8_binary,10,48.8,0.8783783783783784,66.198
+SMHDD,chiaretti-pn-width-8_binary,1,47.0,0.7162162162162162,21.552
+SMHDD,chiaretti-pn-width-8_binary,2,47.8,0.7162162162162162,22.349
+SMHDD,chiaretti-pn-width-8_binary,3,48.4,0.7162162162162162,16.157
+SMHDD,chiaretti-pn-width-8_binary,4,48.6,0.7162162162162162,19.216
+SMHDD,chiaretti-pn-width-8_binary,5,47.9,0.7162162162162162,18.504
+SMHDD,chiaretti-pn-width-8_binary,6,53.4,0.8783783783783784,29.338
+SMHDD,chiaretti-pn-width-8_binary,7,53.2,0.8783783783783784,26.054
+SMHDD,chiaretti-pn-width-8_binary,8,54.8,0.8783783783783784,23.784
+SMHDD,chiaretti-pn-width-8_binary,9,50.3,0.8918918918918919,25.974
+SMHDD,chiaretti-pn-width-8_binary,10,48.8,0.8783783783783784,15.634
+SD,chin-pn-width-8_binary,1,29.4,0.8533333333333334,33.301
+SD,chin-pn-width-8_binary,2,29.4,0.8533333333333334,33.869
+SD,chin-pn-width-8_binary,3,29.4,0.8533333333333334,33.718
+SD,chin-pn-width-8_binary,4,29.4,0.8533333333333334,34.104
+SD,chin-pn-width-8_binary,5,29.4,0.8533333333333334,33.445
+SD,chin-pn-width-8_binary,6,29.4,0.8533333333333334,33.394
+SD,chin-pn-width-8_binary,7,29.4,0.8533333333333334,33.305
+SD,chin-pn-width-8_binary,8,29.4,0.8533333333333334,33.314
+SD,chin-pn-width-8_binary,9,29.4,0.8533333333333334,33.32
+SD,chin-pn-width-8_binary,10,29.4,0.8533333333333334,33.245
+SSDP+,chin-pn-width-8_binary,1,64.5,0.9733333333333334,231.071
+SSDP+,chin-pn-width-8_binary,2,61.0,0.96,138.615
+SSDP+,chin-pn-width-8_binary,3,61.7,0.96,154.206
+SSDP+,chin-pn-width-8_binary,4,65.1,0.9866666666666667,177.578
+SSDP+,chin-pn-width-8_binary,5,61.2,0.9733333333333334,132.326
+SSDP+,chin-pn-width-8_binary,6,62.2,0.92,118.222
+SSDP+,chin-pn-width-8_binary,7,60.7,0.96,140.571
+SSDP+,chin-pn-width-8_binary,8,65.1,1.0,222.496
+SSDP+,chin-pn-width-8_binary,9,65.4,0.9866666666666667,170.031
+SSDP+,chin-pn-width-8_binary,10,64.4,0.96,191.124
+SMHDD,chin-pn-width-8_binary,1,64.5,0.9733333333333334,70.57
+SMHDD,chin-pn-width-8_binary,2,61.0,0.96,39.41
+SMHDD,chin-pn-width-8_binary,3,61.7,0.96,44.546
+SMHDD,chin-pn-width-8_binary,4,65.1,0.9866666666666667,50.491
+SMHDD,chin-pn-width-8_binary,5,61.2,0.9733333333333334,40.042
+SMHDD,chin-pn-width-8_binary,6,62.2,0.92,31.733
+SMHDD,chin-pn-width-8_binary,7,60.7,0.96,40.547
+SMHDD,chin-pn-width-8_binary,8,65.1,1.0,69.675
+SMHDD,chin-pn-width-8_binary,9,65.4,0.9866666666666667,49.394
+SMHDD,chin-pn-width-8_binary,10,64.4,0.96,48.352
+SD,chowdary-pn-width-8_binary,1,34.2,0.9032258064516129,16.909
+SD,chowdary-pn-width-8_binary,2,34.2,0.9032258064516129,17.319
+SD,chowdary-pn-width-8_binary,3,34.2,0.9032258064516129,17.441
+SD,chowdary-pn-width-8_binary,4,34.2,0.9032258064516129,17.264
+SD,chowdary-pn-width-8_binary,5,34.2,0.9032258064516129,17.263
+SD,chowdary-pn-width-8_binary,6,34.2,0.9032258064516129,16.994
+SD,chowdary-pn-width-8_binary,7,34.2,0.9032258064516129,17.07
+SD,chowdary-pn-width-8_binary,8,34.2,0.9032258064516129,17.09
+SD,chowdary-pn-width-8_binary,9,34.2,0.9032258064516129,17.012
+SD,chowdary-pn-width-8_binary,10,34.2,0.9032258064516129,17.033
+SSDP+,chowdary-pn-width-8_binary,1,49.7,0.967741935483871,30.65
+SSDP+,chowdary-pn-width-8_binary,2,49.2,0.967741935483871,32.86
+SSDP+,chowdary-pn-width-8_binary,3,49.9,0.967741935483871,37.918
+SSDP+,chowdary-pn-width-8_binary,4,49.2,0.967741935483871,30.331
+SSDP+,chowdary-pn-width-8_binary,5,49.4,0.967741935483871,29.083
+SSDP+,chowdary-pn-width-8_binary,6,49.2,0.967741935483871,27.759
+SSDP+,chowdary-pn-width-8_binary,7,49.4,0.967741935483871,34.365
+SSDP+,chowdary-pn-width-8_binary,8,49.5,0.967741935483871,29.56
+SSDP+,chowdary-pn-width-8_binary,9,49.1,0.967741935483871,27.192
+SSDP+,chowdary-pn-width-8_binary,10,49.7,0.967741935483871,29.502
+SMHDD,chowdary-pn-width-8_binary,1,49.7,0.967741935483871,10.065
+SMHDD,chowdary-pn-width-8_binary,2,49.2,0.967741935483871,11.377
+SMHDD,chowdary-pn-width-8_binary,3,49.9,0.967741935483871,13.645
+SMHDD,chowdary-pn-width-8_binary,4,49.2,0.967741935483871,10.264
+SMHDD,chowdary-pn-width-8_binary,5,49.4,0.967741935483871,9.632
+SMHDD,chowdary-pn-width-8_binary,6,49.2,0.967741935483871,8.97
+SMHDD,chowdary-pn-width-8_binary,7,49.4,0.967741935483871,12.034
+SMHDD,chowdary-pn-width-8_binary,8,49.5,0.967741935483871,9.631
+SMHDD,chowdary-pn-width-8_binary,9,49.1,0.967741935483871,8.716
+SMHDD,chowdary-pn-width-8_binary,10,49.7,0.967741935483871,9.512
+SD,christensen-pn-width-8_binary,1,79.8,0.9557522123893806,2.94
+SD,christensen-pn-width-8_binary,2,79.8,0.9557522123893806,2.99
+SD,christensen-pn-width-8_binary,3,79.8,0.9557522123893806,3.005
+SD,christensen-pn-width-8_binary,4,79.8,0.9557522123893806,3.006
+SD,christensen-pn-width-8_binary,5,79.8,0.9557522123893806,3.023
+SD,christensen-pn-width-8_binary,6,79.8,0.9557522123893806,3.006
+SD,christensen-pn-width-8_binary,7,79.8,0.9557522123893806,3.019
+SD,christensen-pn-width-8_binary,8,79.8,0.9557522123893806,2.991
+SD,christensen-pn-width-8_binary,9,79.8,0.9557522123893806,3.007
+SD,christensen-pn-width-8_binary,10,79.8,0.9557522123893806,2.99
+SSDP+,christensen-pn-width-8_binary,1,102.5,1.0,2.635
+SSDP+,christensen-pn-width-8_binary,2,103.0,1.0,2.863
+SSDP+,christensen-pn-width-8_binary,3,103.5,1.0,2.588
+SSDP+,christensen-pn-width-8_binary,4,103.1,1.0,2.891
+SSDP+,christensen-pn-width-8_binary,5,103.5,1.0,2.601
+SSDP+,christensen-pn-width-8_binary,6,103.0,1.0,2.598
+SSDP+,christensen-pn-width-8_binary,7,103.4,1.0,2.685
+SSDP+,christensen-pn-width-8_binary,8,102.8,1.0,2.868
+SSDP+,christensen-pn-width-8_binary,9,102.6,1.0,2.668
+SSDP+,christensen-pn-width-8_binary,10,103.7,1.0,2.373
+SMHDD,christensen-pn-width-8_binary,1,102.5,1.0,0.495
+SMHDD,christensen-pn-width-8_binary,2,103.0,1.0,0.617
+SMHDD,christensen-pn-width-8_binary,3,103.5,1.0,0.543
+SMHDD,christensen-pn-width-8_binary,4,103.1,1.0,0.654
+SMHDD,christensen-pn-width-8_binary,5,103.5,1.0,0.569
+SMHDD,christensen-pn-width-8_binary,6,103.0,1.0,0.608
+SMHDD,christensen-pn-width-8_binary,7,103.4,1.0,0.59
+SMHDD,christensen-pn-width-8_binary,8,102.8,1.0,0.652
+SMHDD,christensen-pn-width-8_binary,9,102.6,1.0,0.63
+SMHDD,christensen-pn-width-8_binary,10,103.7,1.0,0.493
+SD,golub-pn-width-8_binary,1,39.3,1.0,6.36
+SD,golub-pn-width-8_binary,2,39.3,1.0,6.448
+SD,golub-pn-width-8_binary,3,39.3,1.0,6.393
+SD,golub-pn-width-8_binary,4,39.3,1.0,6.435
+SD,golub-pn-width-8_binary,5,39.3,1.0,6.426
+SD,golub-pn-width-8_binary,6,39.3,1.0,6.44
+SD,golub-pn-width-8_binary,7,39.3,1.0,6.454
+SD,golub-pn-width-8_binary,8,39.3,1.0,6.395
+SD,golub-pn-width-8_binary,9,39.3,1.0,6.432
+SD,golub-pn-width-8_binary,10,39.3,1.0,6.42
+SSDP+,golub-pn-width-8_binary,1,43.7,1.0,7.478
+SSDP+,golub-pn-width-8_binary,2,43.3,1.0,8.192
+SSDP+,golub-pn-width-8_binary,3,43.1,1.0,7.64
+SSDP+,golub-pn-width-8_binary,4,43.3,1.0,6.912
+SSDP+,golub-pn-width-8_binary,5,43.3,1.0,7.603
+SSDP+,golub-pn-width-8_binary,6,43.4,1.0,10.05
+SSDP+,golub-pn-width-8_binary,7,43.7,1.0,8.019
+SSDP+,golub-pn-width-8_binary,8,43.5,1.0,8.366
+SSDP+,golub-pn-width-8_binary,9,43.4,1.0,9.483
+SSDP+,golub-pn-width-8_binary,10,43.2,1.0,7.741
+SMHDD,golub-pn-width-8_binary,1,43.7,1.0,2.097
+SMHDD,golub-pn-width-8_binary,2,43.3,1.0,2.502
+SMHDD,golub-pn-width-8_binary,3,43.1,1.0,2.267
+SMHDD,golub-pn-width-8_binary,4,43.3,1.0,1.927
+SMHDD,golub-pn-width-8_binary,5,43.3,1.0,2.32
+SMHDD,golub-pn-width-8_binary,6,43.4,1.0,3.217
+SMHDD,golub-pn-width-8_binary,7,43.7,1.0,2.446
+SMHDD,golub-pn-width-8_binary,8,43.5,1.0,2.617
+SMHDD,golub-pn-width-8_binary,9,43.4,1.0,3.1
+SMHDD,golub-pn-width-8_binary,10,43.2,1.0,2.352
+SD,gordon-pn-width-8_binary,1,106.3,1.0,10.719
+SD,gordon-pn-width-8_binary,2,106.3,1.0,10.878
+SD,gordon-pn-width-8_binary,3,106.3,1.0,10.918
+SD,gordon-pn-width-8_binary,4,106.3,1.0,10.883
+SD,gordon-pn-width-8_binary,5,106.3,1.0,10.948
+SD,gordon-pn-width-8_binary,6,106.3,1.0,10.866
+SD,gordon-pn-width-8_binary,7,106.3,1.0,10.843
+SD,gordon-pn-width-8_binary,8,106.3,1.0,10.867
+SD,gordon-pn-width-8_binary,9,106.3,1.0,10.902
+SD,gordon-pn-width-8_binary,10,106.3,1.0,10.86
+SSDP+,gordon-pn-width-8_binary,1,106.4,1.0,10.925
+SSDP+,gordon-pn-width-8_binary,2,106.3,1.0,12.12
+SSDP+,gordon-pn-width-8_binary,3,106.4,1.0,12.07
+SSDP+,gordon-pn-width-8_binary,4,105.9,1.0,11.524
+SSDP+,gordon-pn-width-8_binary,5,105.9,1.0,11.72
+SSDP+,gordon-pn-width-8_binary,6,106.4,1.0,11.795
+SSDP+,gordon-pn-width-8_binary,7,106.4,1.0,11.737
+SSDP+,gordon-pn-width-8_binary,8,105.6,1.0,10.709
+SSDP+,gordon-pn-width-8_binary,9,106.4,1.0,13.56
+SSDP+,gordon-pn-width-8_binary,10,106.4,1.0,11.877
+SMHDD,gordon-pn-width-8_binary,1,106.4,1.0,2.837
+SMHDD,gordon-pn-width-8_binary,2,106.3,1.0,3.337
+SMHDD,gordon-pn-width-8_binary,3,106.4,1.0,3.307
+SMHDD,gordon-pn-width-8_binary,4,105.9,1.0,2.956
+SMHDD,gordon-pn-width-8_binary,5,105.9,1.0,2.98
+SMHDD,gordon-pn-width-8_binary,6,106.4,1.0,3.048
+SMHDD,gordon-pn-width-8_binary,7,106.4,1.0,3.045
+SMHDD,gordon-pn-width-8_binary,8,105.6,1.0,2.553
+SMHDD,gordon-pn-width-8_binary,9,106.4,1.0,3.728
+SMHDD,gordon-pn-width-8_binary,10,106.4,1.0,2.997
+SD,gravier-pn-width-8_binary,1,35.1,0.7027027027027027,5.196
+SD,gravier-pn-width-8_binary,2,35.1,0.7027027027027027,5.326
+SD,gravier-pn-width-8_binary,3,35.1,0.7027027027027027,5.265
+SD,gravier-pn-width-8_binary,4,35.1,0.7027027027027027,5.263
+SD,gravier-pn-width-8_binary,5,35.1,0.7027027027027027,5.274
+SD,gravier-pn-width-8_binary,6,35.1,0.7027027027027027,5.301
+SD,gravier-pn-width-8_binary,7,35.1,0.7027027027027027,5.313
+SD,gravier-pn-width-8_binary,8,35.1,0.7027027027027027,5.31
+SD,gravier-pn-width-8_binary,9,35.1,0.7027027027027027,5.306
+SD,gravier-pn-width-8_binary,10,35.1,0.7027027027027027,5.301
+SSDP+,gravier-pn-width-8_binary,1,82.3,0.9369369369369369,41.102
+SSDP+,gravier-pn-width-8_binary,2,79.0,0.8738738738738738,28.313
+SSDP+,gravier-pn-width-8_binary,3,78.3,0.7747747747747747,28.676
+SSDP+,gravier-pn-width-8_binary,4,81.5,0.9459459459459459,58.461
+SSDP+,gravier-pn-width-8_binary,5,78.2,0.7657657657657657,28.69
+SSDP+,gravier-pn-width-8_binary,6,78.3,0.8648648648648649,25.573
+SSDP+,gravier-pn-width-8_binary,7,79.4,0.7747747747747747,29.933
+SSDP+,gravier-pn-width-8_binary,8,84.0,0.9369369369369369,44.204
+SSDP+,gravier-pn-width-8_binary,9,91.8,0.9459459459459459,102.293
+SSDP+,gravier-pn-width-8_binary,10,79.2,0.8828828828828829,27.85
+SMHDD,gravier-pn-width-8_binary,1,82.3,0.9369369369369369,10.28
+SMHDD,gravier-pn-width-8_binary,2,79.0,0.8738738738738738,5.914
+SMHDD,gravier-pn-width-8_binary,3,78.3,0.7747747747747747,5.684
+SMHDD,gravier-pn-width-8_binary,4,81.5,0.9459459459459459,14.152
+SMHDD,gravier-pn-width-8_binary,5,78.2,0.7657657657657657,6.258
+SMHDD,gravier-pn-width-8_binary,6,78.3,0.8648648648648649,5.562
+SMHDD,gravier-pn-width-8_binary,7,79.4,0.7747747747747747,6.081
+SMHDD,gravier-pn-width-8_binary,8,84.0,0.9369369369369369,9.829
+SMHDD,gravier-pn-width-8_binary,9,91.8,0.9459459459459459,33.291
+SMHDD,gravier-pn-width-8_binary,10,79.2,0.8828828828828829,5.565
+SD,khan-pn-width-8_binary,1,16.5,1.0,1.737
+SD,khan-pn-width-8_binary,2,16.5,1.0,1.764
+SD,khan-pn-width-8_binary,3,16.5,1.0,1.747
+SD,khan-pn-width-8_binary,4,16.5,1.0,1.758
+SD,khan-pn-width-8_binary,5,16.5,1.0,1.764
+SD,khan-pn-width-8_binary,6,16.5,1.0,1.752
+SD,khan-pn-width-8_binary,7,16.5,1.0,1.751
+SD,khan-pn-width-8_binary,8,16.5,1.0,1.755
+SD,khan-pn-width-8_binary,9,16.5,1.0,1.752
+SD,khan-pn-width-8_binary,10,16.5,1.0,1.754
+SSDP+,khan-pn-width-8_binary,1,20.5,1.0,1.699
+SSDP+,khan-pn-width-8_binary,2,20.8,1.0,1.855
+SSDP+,khan-pn-width-8_binary,3,20.6,1.0,1.662
+SSDP+,khan-pn-width-8_binary,4,20.3,1.0,1.655
+SSDP+,khan-pn-width-8_binary,5,20.5,1.0,1.897
+SSDP+,khan-pn-width-8_binary,6,20.5,1.0,1.814
+SSDP+,khan-pn-width-8_binary,7,20.5,1.0,1.67
+SSDP+,khan-pn-width-8_binary,8,20.5,1.0,1.834
+SSDP+,khan-pn-width-8_binary,9,20.3,1.0,1.665
+SSDP+,khan-pn-width-8_binary,10,20.4,1.0,1.7
+SMHDD,khan-pn-width-8_binary,1,20.5,1.0,0.468
+SMHDD,khan-pn-width-8_binary,2,20.8,1.0,0.528
+SMHDD,khan-pn-width-8_binary,3,20.6,1.0,0.448
+SMHDD,khan-pn-width-8_binary,4,20.3,1.0,0.447
+SMHDD,khan-pn-width-8_binary,5,20.5,1.0,0.548
+SMHDD,khan-pn-width-8_binary,6,20.5,1.0,0.505
+SMHDD,khan-pn-width-8_binary,7,20.5,1.0,0.446
+SMHDD,khan-pn-width-8_binary,8,20.5,1.0,0.538
+SMHDD,khan-pn-width-8_binary,9,20.3,1.0,0.486
+SMHDD,khan-pn-width-8_binary,10,20.4,1.0,0.479
+SD,nakayama-pn-width-8_binary,1,5.5,0.95,16.773
+SD,nakayama-pn-width-8_binary,2,5.5,0.95,17.393
+SD,nakayama-pn-width-8_binary,3,5.5,0.95,17.689
+SD,nakayama-pn-width-8_binary,4,5.5,0.95,17.49
+SD,nakayama-pn-width-8_binary,5,5.5,0.95,17.622
+SD,nakayama-pn-width-8_binary,6,5.5,0.95,17.555
+SD,nakayama-pn-width-8_binary,7,5.5,0.95,17.661
+SD,nakayama-pn-width-8_binary,8,5.5,0.95,17.487
+SD,nakayama-pn-width-8_binary,9,5.5,0.95,17.492
+SD,nakayama-pn-width-8_binary,10,5.5,0.95,17.524
+SSDP+,nakayama-pn-width-8_binary,1,15.1,0.9,61.994
+SSDP+,nakayama-pn-width-8_binary,2,17.9,1.0,106.727
+SSDP+,nakayama-pn-width-8_binary,3,14.2,0.95,85.605
+SSDP+,nakayama-pn-width-8_binary,4,17.4,1.0,123.765
+SSDP+,nakayama-pn-width-8_binary,5,12.2,0.85,48.299
+SSDP+,nakayama-pn-width-8_binary,6,17.7,1.0,127.266
+SSDP+,nakayama-pn-width-8_binary,7,17.3,1.0,125.514
+SSDP+,nakayama-pn-width-8_binary,8,16.9,1.0,112.818
+SSDP+,nakayama-pn-width-8_binary,9,16.7,0.9,89.128
+SSDP+,nakayama-pn-width-8_binary,10,18.1,1.0,190.511
+SMHDD,nakayama-pn-width-8_binary,1,15.1,0.9,18.895
+SMHDD,nakayama-pn-width-8_binary,2,17.9,1.0,29.494
+SMHDD,nakayama-pn-width-8_binary,3,14.2,0.95,27.516
+SMHDD,nakayama-pn-width-8_binary,4,17.4,1.0,34.186
+SMHDD,nakayama-pn-width-8_binary,5,12.2,0.85,13.213
+SMHDD,nakayama-pn-width-8_binary,6,17.7,1.0,36.215
+SMHDD,nakayama-pn-width-8_binary,7,17.3,1.0,35.425
+SMHDD,nakayama-pn-width-8_binary,8,16.9,1.0,34.54
+SMHDD,nakayama-pn-width-8_binary,9,16.7,0.9,27.503
+SMHDD,nakayama-pn-width-8_binary,10,18.1,1.0,51.715
+SD,pomeroy-pn-width-8_binary,1,12.2,1.0,3.506
+SD,pomeroy-pn-width-8_binary,2,12.2,1.0,3.562
+SD,pomeroy-pn-width-8_binary,3,12.2,1.0,3.589
+SD,pomeroy-pn-width-8_binary,4,12.2,1.0,3.582
+SD,pomeroy-pn-width-8_binary,5,12.2,1.0,3.54
+SD,pomeroy-pn-width-8_binary,6,12.2,1.0,3.552
+SD,pomeroy-pn-width-8_binary,7,12.2,1.0,3.553
+SD,pomeroy-pn-width-8_binary,8,12.2,1.0,3.579
+SD,pomeroy-pn-width-8_binary,9,12.2,1.0,3.548
+SD,pomeroy-pn-width-8_binary,10,12.2,1.0,3.567
+SSDP+,pomeroy-pn-width-8_binary,1,33.0,1.0,18.993
+SSDP+,pomeroy-pn-width-8_binary,2,34.0,1.0,24.21
+SSDP+,pomeroy-pn-width-8_binary,3,35.2,0.9743589743589743,24.369
+SSDP+,pomeroy-pn-width-8_binary,4,35.2,1.0,28.137
+SSDP+,pomeroy-pn-width-8_binary,5,34.6,1.0,23.638
+SSDP+,pomeroy-pn-width-8_binary,6,34.5,1.0,23.524
+SSDP+,pomeroy-pn-width-8_binary,7,34.1,0.9743589743589743,19.864
+SSDP+,pomeroy-pn-width-8_binary,8,33.0,1.0,20.315
+SSDP+,pomeroy-pn-width-8_binary,9,33.9,0.9743589743589743,21.956
+SSDP+,pomeroy-pn-width-8_binary,10,34.4,0.9743589743589743,26.327
+SMHDD,pomeroy-pn-width-8_binary,1,33.0,1.0,5.22
+SMHDD,pomeroy-pn-width-8_binary,2,34.0,1.0,7.83
+SMHDD,pomeroy-pn-width-8_binary,3,35.2,0.9743589743589743,6.77
+SMHDD,pomeroy-pn-width-8_binary,4,35.2,1.0,8.403
+SMHDD,pomeroy-pn-width-8_binary,5,34.6,1.0,6.671
+SMHDD,pomeroy-pn-width-8_binary,6,34.5,1.0,6.845
+SMHDD,pomeroy-pn-width-8_binary,7,34.1,0.9743589743589743,5.647
+SMHDD,pomeroy-pn-width-8_binary,8,33.0,1.0,5.739
+SMHDD,pomeroy-pn-width-8_binary,9,33.9,0.9743589743589743,6.865
+SMHDD,pomeroy-pn-width-8_binary,10,34.4,0.9743589743589743,7.621
+SD,shipp-pn-width-8_binary,1,35.2,0.9655172413793104,4.388
+SD,shipp-pn-width-8_binary,2,35.2,0.9655172413793104,4.41
+SD,shipp-pn-width-8_binary,3,35.2,0.9655172413793104,4.445
+SD,shipp-pn-width-8_binary,4,35.2,0.9655172413793104,4.43
+SD,shipp-pn-width-8_binary,5,35.2,0.9655172413793104,4.458
+SD,shipp-pn-width-8_binary,6,35.2,0.9655172413793104,4.449
+SD,shipp-pn-width-8_binary,7,35.2,0.9655172413793104,4.468
+SD,shipp-pn-width-8_binary,8,35.2,0.9655172413793104,4.466
+SD,shipp-pn-width-8_binary,9,35.2,0.9655172413793104,4.454
+SD,shipp-pn-width-8_binary,10,35.2,0.9655172413793104,4.459
+SSDP+,shipp-pn-width-8_binary,1,52.0,0.9827586206896551,14.487
+SSDP+,shipp-pn-width-8_binary,2,50.4,1.0,11.627
+SSDP+,shipp-pn-width-8_binary,3,49.6,1.0,12.546
+SSDP+,shipp-pn-width-8_binary,4,49.8,0.9655172413793104,12.195
+SSDP+,shipp-pn-width-8_binary,5,50.7,1.0,11.933
+SSDP+,shipp-pn-width-8_binary,6,51.5,1.0,12.199
+SSDP+,shipp-pn-width-8_binary,7,51.6,1.0,14.289
+SSDP+,shipp-pn-width-8_binary,8,50.8,1.0,11.015
+SSDP+,shipp-pn-width-8_binary,9,52.2,1.0,13.916
+SSDP+,shipp-pn-width-8_binary,10,52.2,1.0,13.882
+SMHDD,shipp-pn-width-8_binary,1,52.0,0.9827586206896551,4.599
+SMHDD,shipp-pn-width-8_binary,2,50.4,1.0,3.55
+SMHDD,shipp-pn-width-8_binary,3,49.6,1.0,3.872
+SMHDD,shipp-pn-width-8_binary,4,49.8,0.9655172413793104,3.658
+SMHDD,shipp-pn-width-8_binary,5,50.7,1.0,3.669
+SMHDD,shipp-pn-width-8_binary,6,51.5,1.0,3.749
+SMHDD,shipp-pn-width-8_binary,7,51.6,1.0,4.615
+SMHDD,shipp-pn-width-8_binary,8,50.8,1.0,3.303
+SMHDD,shipp-pn-width-8_binary,9,52.2,1.0,4.455
+SMHDD,shipp-pn-width-8_binary,10,52.2,1.0,4.214
+SD,singh-pn-width-8_binary,1,22.3,0.75,12.246
+SD,singh-pn-width-8_binary,2,22.3,0.75,12.409
+SD,singh-pn-width-8_binary,3,22.3,0.75,12.559
+SD,singh-pn-width-8_binary,4,22.3,0.75,12.47
+SD,singh-pn-width-8_binary,5,22.3,0.75,12.578
+SD,singh-pn-width-8_binary,6,22.3,0.75,12.583
+SD,singh-pn-width-8_binary,7,22.3,0.75,12.559
+SD,singh-pn-width-8_binary,8,22.3,0.75,12.576
+SD,singh-pn-width-8_binary,9,22.3,0.75,12.56
+SD,singh-pn-width-8_binary,10,22.3,0.75,12.578
+SSDP+,singh-pn-width-8_binary,1,46.5,0.9807692307692307,30.913
+SSDP+,singh-pn-width-8_binary,2,46.5,0.9807692307692307,30.757
+SSDP+,singh-pn-width-8_binary,3,46.7,1.0,36.582
+SSDP+,singh-pn-width-8_binary,4,46.7,1.0,37.607
+SSDP+,singh-pn-width-8_binary,5,46.8,1.0,35.681
+SSDP+,singh-pn-width-8_binary,6,46.6,1.0,32.699
+SSDP+,singh-pn-width-8_binary,7,46.6,1.0,29.635
+SSDP+,singh-pn-width-8_binary,8,46.5,0.9807692307692307,29.485
+SSDP+,singh-pn-width-8_binary,9,46.6,0.9807692307692307,30.914
+SSDP+,singh-pn-width-8_binary,10,46.8,1.0,38.299
+SMHDD,singh-pn-width-8_binary,1,46.5,0.9807692307692307,8.351
+SMHDD,singh-pn-width-8_binary,2,46.5,0.9807692307692307,8.11
+SMHDD,singh-pn-width-8_binary,3,46.7,1.0,9.876
+SMHDD,singh-pn-width-8_binary,4,46.7,1.0,9.339
+SMHDD,singh-pn-width-8_binary,5,46.8,1.0,9.449
+SMHDD,singh-pn-width-8_binary,6,46.6,1.0,8.623
+SMHDD,singh-pn-width-8_binary,7,46.6,1.0,7.29
+SMHDD,singh-pn-width-8_binary,8,46.5,0.9807692307692307,7.362
+SMHDD,singh-pn-width-8_binary,9,46.6,0.9807692307692307,7.873
+SMHDD,singh-pn-width-8_binary,10,46.8,1.0,9.992
+SD,sorlie-pn-width-8_binary,1,8.0,1.0,0.228
+SD,sorlie-pn-width-8_binary,2,8.0,1.0,0.228
+SD,sorlie-pn-width-8_binary,3,8.0,1.0,0.228
+SD,sorlie-pn-width-8_binary,4,8.0,1.0,0.229
+SD,sorlie-pn-width-8_binary,5,8.0,1.0,0.228
+SD,sorlie-pn-width-8_binary,6,8.0,1.0,0.227
+SD,sorlie-pn-width-8_binary,7,8.0,1.0,0.227
+SD,sorlie-pn-width-8_binary,8,8.0,1.0,0.227
+SD,sorlie-pn-width-8_binary,9,8.0,1.0,0.23
+SD,sorlie-pn-width-8_binary,10,8.0,1.0,0.229
+SSDP+,sorlie-pn-width-8_binary,1,12.5,0.9411764705882353,0.655
+SSDP+,sorlie-pn-width-8_binary,2,11.8,1.0,0.46
+SSDP+,sorlie-pn-width-8_binary,3,12.5,1.0,0.531
+SSDP+,sorlie-pn-width-8_binary,4,13.1,1.0,0.8
+SSDP+,sorlie-pn-width-8_binary,5,15.0,1.0,0.91
+SSDP+,sorlie-pn-width-8_binary,6,13.7,1.0,0.552
+SSDP+,sorlie-pn-width-8_binary,7,13.7,1.0,0.849
+SSDP+,sorlie-pn-width-8_binary,8,14.3,1.0,0.638
+SSDP+,sorlie-pn-width-8_binary,9,13.5,1.0,0.653
+SSDP+,sorlie-pn-width-8_binary,10,11.9,1.0,0.519
+SMHDD,sorlie-pn-width-8_binary,1,12.5,0.9411764705882353,0.255
+SMHDD,sorlie-pn-width-8_binary,2,11.8,1.0,0.17
+SMHDD,sorlie-pn-width-8_binary,3,12.5,1.0,0.198
+SMHDD,sorlie-pn-width-8_binary,4,13.1,1.0,0.302
+SMHDD,sorlie-pn-width-8_binary,5,15.0,1.0,0.302
+SMHDD,sorlie-pn-width-8_binary,6,13.7,1.0,0.202
+SMHDD,sorlie-pn-width-8_binary,7,13.7,1.0,0.301
+SMHDD,sorlie-pn-width-8_binary,8,14.3,1.0,0.199
+SMHDD,sorlie-pn-width-8_binary,9,13.5,1.0,0.244
+SMHDD,sorlie-pn-width-8_binary,10,11.9,1.0,0.206
+SD,subramanian-pn-width-8_binary,1,13.4,1.0,4.613
+SD,subramanian-pn-width-8_binary,2,13.4,1.0,4.658
+SD,subramanian-pn-width-8_binary,3,13.4,1.0,4.658
+SD,subramanian-pn-width-8_binary,4,13.4,1.0,4.673
+SD,subramanian-pn-width-8_binary,5,13.4,1.0,4.632
+SD,subramanian-pn-width-8_binary,6,13.4,1.0,4.654
+SD,subramanian-pn-width-8_binary,7,13.4,1.0,4.658
+SD,subramanian-pn-width-8_binary,8,13.4,1.0,4.639
+SD,subramanian-pn-width-8_binary,9,13.4,1.0,4.65
+SD,subramanian-pn-width-8_binary,10,13.4,1.0,4.626
+SSDP+,subramanian-pn-width-8_binary,1,30.3,1.0,11.64
+SSDP+,subramanian-pn-width-8_binary,2,30.0,1.0,11.073
+SSDP+,subramanian-pn-width-8_binary,3,29.9,1.0,10.994
+SSDP+,subramanian-pn-width-8_binary,4,30.5,1.0,11.458
+SSDP+,subramanian-pn-width-8_binary,5,30.2,1.0,12.647
+SSDP+,subramanian-pn-width-8_binary,6,30.0,1.0,11.563
+SSDP+,subramanian-pn-width-8_binary,7,30.2,1.0,10.906
+SSDP+,subramanian-pn-width-8_binary,8,29.5,1.0,11.324
+SSDP+,subramanian-pn-width-8_binary,9,29.7,1.0,11.449
+SSDP+,subramanian-pn-width-8_binary,10,29.6,1.0,11.396
+SMHDD,subramanian-pn-width-8_binary,1,30.3,1.0,3.427
+SMHDD,subramanian-pn-width-8_binary,2,30.0,1.0,3.234
+SMHDD,subramanian-pn-width-8_binary,3,29.9,1.0,3.267
+SMHDD,subramanian-pn-width-8_binary,4,30.5,1.0,3.323
+SMHDD,subramanian-pn-width-8_binary,5,30.2,1.0,3.7
+SMHDD,subramanian-pn-width-8_binary,6,30.0,1.0,3.339
+SMHDD,subramanian-pn-width-8_binary,7,30.2,1.0,3.169
+SMHDD,subramanian-pn-width-8_binary,8,29.5,1.0,3.335
+SMHDD,subramanian-pn-width-8_binary,9,29.7,1.0,3.354
+SMHDD,subramanian-pn-width-8_binary,10,29.6,1.0,3.358
+SD,tian-pn-width-8_binary,1,38.5,0.9558823529411765,16.697
+SD,tian-pn-width-8_binary,2,38.5,0.9558823529411765,17.991
+SD,tian-pn-width-8_binary,3,38.5,0.9558823529411765,18.004
+SD,tian-pn-width-8_binary,4,38.5,0.9558823529411765,18.233
+SD,tian-pn-width-8_binary,5,38.5,0.9558823529411765,17.863
+SD,tian-pn-width-8_binary,6,38.5,0.9558823529411765,17.839
+SD,tian-pn-width-8_binary,7,38.5,0.9558823529411765,17.705
+SD,tian-pn-width-8_binary,8,38.5,0.9558823529411765,17.225
+SD,tian-pn-width-8_binary,9,38.5,0.9558823529411765,17.258
+SD,tian-pn-width-8_binary,10,38.5,0.9558823529411765,17.253
+SSDP+,tian-pn-width-8_binary,1,76.1,0.7205882352941176,93.954
+SSDP+,tian-pn-width-8_binary,2,60.2,0.6838235294117647,71.761
+SSDP+,tian-pn-width-8_binary,3,71.7,0.6323529411764706,132.234
+SSDP+,tian-pn-width-8_binary,4,67.8,0.6323529411764706,83.56
+SSDP+,tian-pn-width-8_binary,5,60.7,0.8529411764705882,58.929
+SSDP+,tian-pn-width-8_binary,6,64.3,0.7720588235294118,70.332
+SSDP+,tian-pn-width-8_binary,7,83.8,0.7867647058823529,183.999
+SSDP+,tian-pn-width-8_binary,8,67.7,0.5441176470588235,76.523
+SSDP+,tian-pn-width-8_binary,9,82.3,0.75,103.578
+SSDP+,tian-pn-width-8_binary,10,65.5,0.7352941176470589,69.673
+SMHDD,tian-pn-width-8_binary,1,76.1,0.7205882352941176,29.731
+SMHDD,tian-pn-width-8_binary,2,60.2,0.6838235294117647,21.457
+SMHDD,tian-pn-width-8_binary,3,71.7,0.6323529411764706,39.971
+SMHDD,tian-pn-width-8_binary,4,67.8,0.6323529411764706,24.469
+SMHDD,tian-pn-width-8_binary,5,60.7,0.8529411764705882,17.707
+SMHDD,tian-pn-width-8_binary,6,64.3,0.7720588235294118,18.483
+SMHDD,tian-pn-width-8_binary,7,83.8,0.7867647058823529,59.763
+SMHDD,tian-pn-width-8_binary,8,67.7,0.5441176470588235,21.258
+SMHDD,tian-pn-width-8_binary,9,82.3,0.75,29.574
+SMHDD,tian-pn-width-8_binary,10,65.5,0.7352941176470589,19.367
+SD,west-pn-width-8_binary,1,11.2,0.76,3.569
+SD,west-pn-width-8_binary,2,11.2,0.76,3.593
+SD,west-pn-width-8_binary,3,11.2,0.76,3.576
+SD,west-pn-width-8_binary,4,11.2,0.76,3.575
+SD,west-pn-width-8_binary,5,11.2,0.76,3.571
+SD,west-pn-width-8_binary,6,11.2,0.76,3.558
+SD,west-pn-width-8_binary,7,11.2,0.76,3.552
+SD,west-pn-width-8_binary,8,11.2,0.76,3.573
+SD,west-pn-width-8_binary,9,11.2,0.76,3.588
+SD,west-pn-width-8_binary,10,11.2,0.76,3.571
+SSDP+,west-pn-width-8_binary,1,21.5,1.0,10.671
+SSDP+,west-pn-width-8_binary,2,22.2,1.0,13.517
+SSDP+,west-pn-width-8_binary,3,22.6,1.0,14.543
+SSDP+,west-pn-width-8_binary,4,22.2,1.0,9.0
+SSDP+,west-pn-width-8_binary,5,22.4,1.0,10.802
+SSDP+,west-pn-width-8_binary,6,22.6,1.0,13.836
+SSDP+,west-pn-width-8_binary,7,22.4,1.0,11.036
+SSDP+,west-pn-width-8_binary,8,22.6,1.0,11.808
+SSDP+,west-pn-width-8_binary,9,22.5,1.0,10.418
+SSDP+,west-pn-width-8_binary,10,22.4,1.0,9.013
+SMHDD,west-pn-width-8_binary,1,21.5,1.0,3.401
+SMHDD,west-pn-width-8_binary,2,22.2,1.0,4.529
+SMHDD,west-pn-width-8_binary,3,22.6,1.0,4.855
+SMHDD,west-pn-width-8_binary,4,22.2,1.0,2.8
+SMHDD,west-pn-width-8_binary,5,22.4,1.0,3.29
+SMHDD,west-pn-width-8_binary,6,22.6,1.0,4.524
+SMHDD,west-pn-width-8_binary,7,22.4,1.0,3.555
+SMHDD,west-pn-width-8_binary,8,22.6,1.0,3.8
+SMHDD,west-pn-width-8_binary,9,22.5,1.0,3.216
+SMHDD,west-pn-width-8_binary,10,22.4,1.0,2.835
+SD,yeoh-pn-width-8_binary,1,74.6,0.9620253164556962,39.699
+SD,yeoh-pn-width-8_binary,2,74.6,0.9620253164556962,42.644
+SD,yeoh-pn-width-8_binary,3,74.6,0.9620253164556962,42.955
+SD,yeoh-pn-width-8_binary,4,74.6,0.9620253164556962,42.996
+SD,yeoh-pn-width-8_binary,5,74.6,0.9620253164556962,42.976
+SD,yeoh-pn-width-8_binary,6,74.6,0.9620253164556962,42.941
+SD,yeoh-pn-width-8_binary,7,74.6,0.9620253164556962,42.031
+SD,yeoh-pn-width-8_binary,8,74.6,0.9620253164556962,42.083
+SD,yeoh-pn-width-8_binary,9,74.6,0.9620253164556962,41.979
+SD,yeoh-pn-width-8_binary,10,74.6,0.9620253164556962,41.971
+SSDP+,yeoh-pn-width-8_binary,1,69.4,0.9873417721518988,47.773
+SSDP+,yeoh-pn-width-8_binary,2,70.2,1.0,64.545
+SSDP+,yeoh-pn-width-8_binary,3,70.3,1.0,57.559
+SSDP+,yeoh-pn-width-8_binary,4,68.8,0.9620253164556962,36.466
+SSDP+,yeoh-pn-width-8_binary,5,69.5,1.0,44.694
+SSDP+,yeoh-pn-width-8_binary,6,69.8,1.0,52.429
+SSDP+,yeoh-pn-width-8_binary,7,68.8,0.9620253164556962,36.313
+SSDP+,yeoh-pn-width-8_binary,8,70.0,1.0,53.745
+SSDP+,yeoh-pn-width-8_binary,9,69.9,1.0,61.944
+SSDP+,yeoh-pn-width-8_binary,10,70.0,1.0,58.327
+SMHDD,yeoh-pn-width-8_binary,1,69.4,0.9873417721518988,9.914
+SMHDD,yeoh-pn-width-8_binary,2,70.2,1.0,16.867
+SMHDD,yeoh-pn-width-8_binary,3,70.3,1.0,14.82
+SMHDD,yeoh-pn-width-8_binary,4,68.8,0.9620253164556962,7.612
+SMHDD,yeoh-pn-width-8_binary,5,69.5,1.0,9.871
+SMHDD,yeoh-pn-width-8_binary,6,69.8,1.0,12.86
+SMHDD,yeoh-pn-width-8_binary,7,68.8,0.9620253164556962,7.534
+SMHDD,yeoh-pn-width-8_binary,8,70.0,1.0,13.197
+SMHDD,yeoh-pn-width-8_binary,9,69.9,1.0,15.752
+SMHDD,yeoh-pn-width-8_binary,10,70.0,1.0,14.603
+SMHDD (local),alon_og_labeled,1,0.8158168574401665,1.0,7.193
+SMHDD (local),alon_og_labeled,2,0.8066597294484913,0.975,5.435
+SMHDD (local),alon_og_labeled,3,0.8199791883454735,0.975,3.726
+SMHDD (local),alon_og_labeled,4,0.8226847034339231,1.0,6.356
+SMHDD (local),alon_og_labeled,5,0.8074921956295528,0.975,6.289
+SMHDD (local),alon_og_labeled,6,0.8199791883454735,1.0,5.826
+SMHDD (local),alon_og_labeled,7,0.8360041623309054,1.0,6.996
+SMHDD (local),alon_og_labeled,8,0.8172736732570239,0.975,5.069
+SMHDD (local),alon_og_labeled,9,0.8154006243496358,0.975,3.773
+SMHDD (local),alon_og_labeled,10,0.8176899063475547,0.975,4.462
+SMHDD (local),burczynski_og_labeled,1,0.9293818587637175,1.0,85.37
+SMHDD (local),burczynski_og_labeled,2,0.93253146506293,1.0,110.025
+SMHDD (local),burczynski_og_labeled,3,0.9324322648645296,1.0,83.452
+SMHDD (local),burczynski_og_labeled,4,0.9273730547461094,1.0,91.953
+SMHDD (local),burczynski_og_labeled,5,0.9296050592101184,1.0,88.331
+SMHDD (local),burczynski_og_labeled,6,0.9287122574245149,1.0,88.592
+SMHDD (local),burczynski_og_labeled,7,0.9305226610453221,1.0,77.574
+SMHDD (local),burczynski_og_labeled,8,0.9268026536053074,1.0,69.191
+SMHDD (local),burczynski_og_labeled,9,0.9302746605493211,1.0,81.411
+SMHDD (local),burczynski_og_labeled,10,0.9303986607973215,1.0,83.9
+SMHDD (local),chiaretti_og_labeled,1,0.884326171875,0.9864864864864865,40.686
+SMHDD (local),chiaretti_og_labeled,2,0.89072265625,1.0,63.668
+SMHDD (local),chiaretti_og_labeled,3,0.8822265625,1.0,36.1
+SMHDD (local),chiaretti_og_labeled,4,0.8884765625,1.0,45.01
+SMHDD (local),chiaretti_og_labeled,5,0.888623046875,1.0,64.743
+SMHDD (local),chiaretti_og_labeled,6,0.889111328125,1.0,63.428
+SMHDD (local),chiaretti_og_labeled,7,0.891259765625,1.0,63.261
+SMHDD (local),chiaretti_og_labeled,8,0.88828125,1.0,71.751
+SMHDD (local),chiaretti_og_labeled,9,0.89208984375,1.0,80.062
+SMHDD (local),chiaretti_og_labeled,10,0.894189453125,1.0,74.195
+SMHDD (local),chin_og_labeled,1,0.8517954610744038,1.0,70.807
+SMHDD (local),chin_og_labeled,2,0.8530020109164032,1.0,65.627
+SMHDD (local),chin_og_labeled,3,0.8530020109164033,1.0,105.492
+SMHDD (local),chin_og_labeled,4,0.8536052858374029,1.0,105.386
+SMHDD (local),chin_og_labeled,5,0.8545532892846882,1.0,95.188
+SMHDD (local),chin_og_labeled,6,0.8517954610744038,1.0,67.988
+SMHDD (local),chin_og_labeled,7,0.8508474576271187,1.0,60.6
+SMHDD (local),chin_og_labeled,8,0.8517954610744038,1.0,64.331
+SMHDD (local),chin_og_labeled,9,0.855472565354783,1.0,58.554
+SMHDD (local),chin_og_labeled,10,0.8520827348463085,1.0,58.623
+SMHDD (local),chowdary_og_labeled,1,0.883284023668639,1.0,54.841
+SMHDD (local),chowdary_og_labeled,2,0.883284023668639,1.0,82.707
+SMHDD (local),chowdary_og_labeled,3,0.8818047337278105,1.0,75.338
+SMHDD (local),chowdary_og_labeled,4,0.8764053254437869,1.0,45.092
+SMHDD (local),chowdary_og_labeled,5,0.8840236686390532,1.0,91.384
+SMHDD (local),chowdary_og_labeled,6,0.880991124260355,1.0,60.562
+SMHDD (local),chowdary_og_labeled,7,0.8795118343195266,1.0,57.138
+SMHDD (local),chowdary_og_labeled,8,0.8801035502958581,1.0,93.705
+SMHDD (local),chowdary_og_labeled,9,0.8857988165680473,1.0,64.019
+SMHDD (local),chowdary_og_labeled,10,0.8833579881656805,1.0,60.965
+SMHDD (local),christensen_og_labeled,1,0.911558962815095,1.0,1.863
+SMHDD (local),christensen_og_labeled,2,0.913436258998917,1.0,1.667
+SMHDD (local),christensen_og_labeled,3,0.9203508250334475,1.0,1.861
+SMHDD (local),christensen_og_labeled,4,0.9269256089532588,1.0,1.855
+SMHDD (local),christensen_og_labeled,5,0.9092484444350062,1.0,1.633
+SMHDD (local),christensen_og_labeled,6,0.9113211153347915,1.0,1.76
+SMHDD (local),christensen_og_labeled,7,0.9076344793900912,1.0,1.595
+SMHDD (local),christensen_og_labeled,8,0.922389517721761,1.0,1.918
+SMHDD (local),christensen_og_labeled,9,0.9199260973900486,1.0,1.75
+SMHDD (local),christensen_og_labeled,10,0.9141328123340908,1.0,1.775
+SMHDD (local),golub_og_labeled,1,0.8412808641975309,1.0,6.363
+SMHDD (local),golub_og_labeled,2,0.84320987654321,1.0,5.909
+SMHDD (local),golub_og_labeled,3,0.8359567901234568,1.0,6.036
+SMHDD (local),golub_og_labeled,4,0.8412808641975309,1.0,5.839
+SMHDD (local),golub_og_labeled,5,0.8395833333333333,1.0,6.051
+SMHDD (local),golub_og_labeled,6,0.8449074074074074,1.0,5.714
+SMHDD (local),golub_og_labeled,7,0.8393518518518519,1.0,6.459
+SMHDD (local),golub_og_labeled,8,0.841743827160494,1.0,6.758
+SMHDD (local),golub_og_labeled,9,0.8415123456790123,1.0,6.657
+SMHDD (local),golub_og_labeled,10,0.8366512345679012,1.0,6.277
+SMHDD (local),gordon_og_labeled,1,0.5166508958822991,1.0,24.803
+SMHDD (local),gordon_og_labeled,2,0.5228289734745581,1.0,21.144
+SMHDD (local),gordon_og_labeled,3,0.5211928817801654,1.0,22.375
+SMHDD (local),gordon_og_labeled,4,0.5193003876560545,1.0,19.192
+SMHDD (local),gordon_og_labeled,5,0.5185433900064099,1.0,21.672
+SMHDD (local),gordon_og_labeled,6,0.5201184335032508,1.0,22.07
+SMHDD (local),gordon_og_labeled,7,0.5185433900064099,1.0,22.016
+SMHDD (local),gordon_og_labeled,8,0.5189218888312321,1.0,23.934
+SMHDD (local),gordon_og_labeled,9,0.5189218888312321,1.0,24.32
+SMHDD (local),gordon_og_labeled,10,0.5212539299777175,1.0,24.819
+SMHDD (local),gravier_og_labeled,1,0.7857142857142859,1.0,70.093
+SMHDD (local),gravier_og_labeled,2,0.784906462585034,0.990990990990991,54.08
+SMHDD (local),gravier_og_labeled,3,0.787244897959184,1.0,64.559
+SMHDD (local),gravier_og_labeled,4,0.800170068027211,1.0,68.43
+SMHDD (local),gravier_og_labeled,5,0.7936649659863948,1.0,90.349
+SMHDD (local),gravier_og_labeled,6,0.777763605442177,1.0,64.409
+SMHDD (local),gravier_og_labeled,7,0.7741921768707483,0.972972972972973,43.873
+SMHDD (local),gravier_og_labeled,8,0.7953231292517009,1.0,115.057
+SMHDD (local),gravier_og_labeled,9,0.779294217687075,0.990990990990991,27.948
+SMHDD (local),gravier_og_labeled,10,0.8019557823129253,1.0,78.648
+SMHDD (local),khan_og_labeled,1,0.8827412446460065,1.0,1.641
+SMHDD (local),khan_og_labeled,2,0.8768959435626101,1.0,1.445
+SMHDD (local),khan_og_labeled,3,0.8890904509952128,1.0,1.456
+SMHDD (local),khan_og_labeled,4,0.8815318720080624,1.0,1.431
+SMHDD (local),khan_og_labeled,5,0.8850592088687327,1.0,1.482
+SMHDD (local),khan_og_labeled,6,0.8821365583270344,1.0,1.664
+SMHDD (local),khan_og_labeled,7,0.8816326530612244,1.0,1.393
+SMHDD (local),khan_og_labeled,8,0.8833459309649785,1.0,1.642
+SMHDD (local),khan_og_labeled,9,0.892013101536911,1.0,1.684
+SMHDD (local),khan_og_labeled,10,0.8798185941043084,1.0,1.519
+SMHDD (local),nakayama_og_labeled,1,0.6247619047619049,1.0,35.717
+SMHDD (local),nakayama_og_labeled,2,0.6224761904761906,1.0,37.546
+SMHDD (local),nakayama_og_labeled,3,0.6247619047619049,1.0,36.599
+SMHDD (local),nakayama_og_labeled,4,0.6232380952380954,1.0,41.031
+SMHDD (local),nakayama_og_labeled,5,0.6217142857142859,1.0,35.918
+SMHDD (local),nakayama_og_labeled,6,0.6217142857142859,1.0,37.815
+SMHDD (local),nakayama_og_labeled,7,0.6217142857142859,1.0,39.941
+SMHDD (local),nakayama_og_labeled,8,0.6201904761904764,1.0,41.133
+SMHDD (local),nakayama_og_labeled,9,0.6270476190476191,1.0,36.415
+SMHDD (local),nakayama_og_labeled,10,0.6262857142857143,1.0,36.527
+SMHDD (local),pomeroy_og_labeled,1,0.8493333333333333,1.0,16.528
+SMHDD (local),pomeroy_og_labeled,2,0.8493333333333333,1.0,16.353
+SMHDD (local),pomeroy_og_labeled,3,0.8493333333333333,1.0,17.088
+SMHDD (local),pomeroy_og_labeled,4,0.8426666666666666,1.0,19.893
+SMHDD (local),pomeroy_og_labeled,5,0.8379999999999999,1.0,21.339
+SMHDD (local),pomeroy_og_labeled,6,0.8313333333333333,1.0,23.781
+SMHDD (local),pomeroy_og_labeled,7,0.8493333333333333,1.0,14.204
+SMHDD (local),pomeroy_og_labeled,8,0.8469999999999999,1.0,17.428
+SMHDD (local),pomeroy_og_labeled,9,0.8406666666666667,1.0,25.172
+SMHDD (local),pomeroy_og_labeled,10,0.8469999999999999,1.0,17.951
+SMHDD (local),shipp_og_labeled,1,0.6741777702816664,1.0,9.921
+SMHDD (local),shipp_og_labeled,2,0.6780907404284028,1.0,16.081
+SMHDD (local),shipp_og_labeled,3,0.6780907404284028,1.0,12.822
+SMHDD (local),shipp_og_labeled,4,0.6627087198515769,1.0,8.857
+SMHDD (local),shipp_og_labeled,5,0.6678360600438522,1.0,8.382
+SMHDD (local),shipp_og_labeled,6,0.6639905548996458,1.0,9.083
+SMHDD (local),shipp_og_labeled,7,0.6665542249957833,1.0,15.529
+SMHDD (local),shipp_og_labeled,8,0.6729634002361274,1.0,15.249
+SMHDD (local),shipp_og_labeled,9,0.6857817507168157,1.0,21.249
+SMHDD (local),shipp_og_labeled,10,0.6793725754764716,1.0,16.818
+SMHDD (local),singh_og_labeled,1,0.91280276816609,1.0,37.458
+SMHDD (local),singh_og_labeled,2,0.91118800461361,1.0,37.426
+SMHDD (local),singh_og_labeled,3,0.9181853133410227,1.0,26.632
+SMHDD (local),singh_og_labeled,4,0.9126489811610918,1.0,28.298
+SMHDD (local),singh_og_labeled,5,0.9178777393310265,1.0,35.057
+SMHDD (local),singh_og_labeled,6,0.9126489811610918,1.0,41.632
+SMHDD (local),singh_og_labeled,7,0.9107266435986159,0.9807692307692307,25.665
+SMHDD (local),singh_og_labeled,8,0.9146482122260668,1.0,37.42
+SMHDD (local),singh_og_labeled,9,0.9183391003460208,1.0,31.606
+SMHDD (local),singh_og_labeled,10,0.9128796616685889,1.0,40.254
+SMHDD (local),sorlie_og_labeled,1,0.8841522491349483,1.0,1.297
+SMHDD (local),sorlie_og_labeled,2,0.8812733564013844,1.0,0.875
+SMHDD (local),sorlie_og_labeled,3,0.8812179930795849,1.0,1.09
+SMHDD (local),sorlie_og_labeled,4,0.8800553633217995,1.0,0.861
+SMHDD (local),sorlie_og_labeled,5,0.8835432525951559,1.0,0.785
+SMHDD (local),sorlie_og_labeled,6,0.8812179930795848,1.0,0.932
+SMHDD (local),sorlie_og_labeled,7,0.8771211072664359,1.0,1.036
+SMHDD (local),sorlie_og_labeled,8,0.8853148788927336,1.0,0.842
+SMHDD (local),sorlie_og_labeled,9,0.8800553633217995,1.0,0.933
+SMHDD (local),sorlie_og_labeled,10,0.8829342560553635,1.0,0.867
+SMHDD (local),subramanian_og_labeled,1,0.82736,1.0,11.173
+SMHDD (local),subramanian_og_labeled,2,0.82736,1.0,10.736
+SMHDD (local),subramanian_og_labeled,3,0.8272,1.0,11.094
+SMHDD (local),subramanian_og_labeled,4,0.8268799999999998,1.0,10.885
+SMHDD (local),subramanian_og_labeled,5,0.82416,1.0,11.737
+SMHDD (local),subramanian_og_labeled,6,0.8268799999999998,1.0,10.85
+SMHDD (local),subramanian_og_labeled,7,0.82416,1.0,10.809
+SMHDD (local),subramanian_og_labeled,8,0.8328,1.0,11.091
+SMHDD (local),subramanian_og_labeled,9,0.83248,1.0,10.523
+SMHDD (local),subramanian_og_labeled,10,0.82416,1.0,11.17
+SMHDD (local),tian_og_labeled,1,0.6069030037756022,1.0,292.966
+SMHDD (local),tian_og_labeled,2,0.6100838651475158,1.0,349.667
+SMHDD (local),tian_og_labeled,3,0.6091215877576932,1.0,278.439
+SMHDD (local),tian_og_labeled,4,0.5987236459621104,1.0,237.248
+SMHDD (local),tian_og_labeled,5,0.6105650038424271,1.0,334.08
+SMHDD (local),tian_og_labeled,6,0.6074776972167463,1.0,215.656
+SMHDD (local),tian_og_labeled,7,0.6082528651141034,1.0,350.167
+SMHDD (local),tian_og_labeled,8,0.6106585585886599,1.0,283.426
+SMHDD (local),tian_og_labeled,9,0.5988172007083431,1.0,169.887
+SMHDD (local),tian_og_labeled,10,0.6096962811988373,1.0,298.771
+SMHDD (local),west_og_labeled,1,0.9191170345689296,1.0,7.833
+SMHDD (local),west_og_labeled,2,0.9269471053727614,1.0,7.843
+SMHDD (local),west_og_labeled,3,0.9269471053727614,1.0,6.945
+SMHDD (local),west_og_labeled,4,0.9271137026239067,1.0,9.357
+SMHDD (local),west_og_labeled,5,0.926780508121616,1.0,7.433
+SMHDD (local),west_og_labeled,6,0.926780508121616,1.0,7.38
+SMHDD (local),west_og_labeled,7,0.9111203665139523,1.0,7.47
+SMHDD (local),west_og_labeled,8,0.9264473136193253,1.0,7.3
+SMHDD (local),west_og_labeled,9,0.926780508121616,1.0,8.436
+SMHDD (local),west_og_labeled,10,0.9276134943773429,1.0,8.23
+SMHDD (local),yeoh_og_labeled,1,0.8425533298647243,1.0,34.112
+SMHDD (local),yeoh_og_labeled,2,0.8335327783558792,1.0,35.921
+SMHDD (local),yeoh_og_labeled,3,0.8452783558792923,1.0,38.565
+SMHDD (local),yeoh_og_labeled,4,0.8364724245577524,1.0,38.131
+SMHDD (local),yeoh_og_labeled,5,0.8391844432882415,1.0,39.703
+SMHDD (local),yeoh_og_labeled,6,0.8385991155046826,1.0,41.215
+SMHDD (local),yeoh_og_labeled,7,0.8401404786680541,1.0,40.215
+SMHDD (local),yeoh_og_labeled,8,0.8360301768990634,1.0,36.371
+SMHDD (local),yeoh_og_labeled,9,0.834931061394381,1.0,37.186
+SMHDD (local),yeoh_og_labeled,10,0.8341896462018731,1.0,36.822
+SD,alon-pn-width-8_binary,1,0.8070759625390218,0.95,4.589
+SD,alon-pn-width-8_binary,2,0.8070759625390218,0.95,4.567
+SD,alon-pn-width-8_binary,3,0.8070759625390218,0.95,4.538
+SD,alon-pn-width-8_binary,4,0.8070759625390218,0.95,4.524
+SD,alon-pn-width-8_binary,5,0.8070759625390218,0.95,4.536
+SD,alon-pn-width-8_binary,6,0.8070759625390218,0.95,4.531
+SD,alon-pn-width-8_binary,7,0.8070759625390218,0.95,4.563
+SD,alon-pn-width-8_binary,8,0.8070759625390218,0.95,4.551
+SD,alon-pn-width-8_binary,9,0.8070759625390218,0.95,4.533
+SD,alon-pn-width-8_binary,10,0.8070759625390218,0.95,4.544
+SSDP+,alon-pn-width-8_binary,1,0.7860561914672216,0.95,2.773
+SSDP+,alon-pn-width-8_binary,2,0.7860561914672216,0.95,2.789
+SSDP+,alon-pn-width-8_binary,3,0.7800208116545264,0.95,2.692
+SSDP+,alon-pn-width-8_binary,4,0.7800208116545264,0.975,2.466
+SSDP+,alon-pn-width-8_binary,5,0.7818938605619146,0.95,2.485
+SSDP+,alon-pn-width-8_binary,6,0.7746097814776275,0.975,2.071
+SSDP+,alon-pn-width-8_binary,7,0.7818938605619146,0.95,3.308
+SSDP+,alon-pn-width-8_binary,8,0.7800208116545264,0.975,3.137
+SSDP+,alon-pn-width-8_binary,9,0.7823100936524453,0.95,2.867
+SSDP+,alon-pn-width-8_binary,10,0.7804370447450572,0.95,3.152
+SMHDD,alon-pn-width-8_binary,1,0.7860561914672216,0.95,0.922
+SMHDD,alon-pn-width-8_binary,2,0.7860561914672216,0.95,0.909
+SMHDD,alon-pn-width-8_binary,3,0.7800208116545264,0.95,0.868
+SMHDD,alon-pn-width-8_binary,4,0.7800208116545264,0.975,0.783
+SMHDD,alon-pn-width-8_binary,5,0.7818938605619146,0.95,0.777
+SMHDD,alon-pn-width-8_binary,6,0.7746097814776275,0.975,0.622
+SMHDD,alon-pn-width-8_binary,7,0.7818938605619146,0.95,1.107
+SMHDD,alon-pn-width-8_binary,8,0.7800208116545264,0.975,0.957
+SMHDD,alon-pn-width-8_binary,9,0.7823100936524453,0.95,0.926
+SMHDD,alon-pn-width-8_binary,10,0.7804370447450572,0.95,1.041
+SD,burczynski-pn-width-8_binary,1,0.854535309070618,0.8813559322033898,83.237
+SD,burczynski-pn-width-8_binary,2,0.854535309070618,0.8813559322033898,83.25
+SD,burczynski-pn-width-8_binary,3,0.854535309070618,0.8813559322033898,83.396
+SD,burczynski-pn-width-8_binary,4,0.854535309070618,0.8813559322033898,83.765
+SD,burczynski-pn-width-8_binary,5,0.854535309070618,0.8813559322033898,83.562
+SD,burczynski-pn-width-8_binary,6,0.854535309070618,0.8813559322033898,83.609
+SD,burczynski-pn-width-8_binary,7,0.854535309070618,0.8813559322033898,83.898
+SD,burczynski-pn-width-8_binary,8,0.854535309070618,0.8813559322033898,83.57
+SD,burczynski-pn-width-8_binary,9,0.854535309070618,0.8813559322033898,83.576
+SD,burczynski-pn-width-8_binary,10,0.854535309070618,0.8813559322033898,83.561
+SSDP+,burczynski-pn-width-8_binary,1,0.930497860995722,1.0,111.984
+SSDP+,burczynski-pn-width-8_binary,2,0.9290594581189161,1.0,152.926
+SSDP+,burczynski-pn-width-8_binary,3,0.9241986483972967,1.0,110.57
+SSDP+,burczynski-pn-width-8_binary,4,0.9300514601029202,1.0,106.174
+SSDP+,burczynski-pn-width-8_binary,5,0.9293818587637175,1.0,117.028
+SSDP+,burczynski-pn-width-8_binary,6,0.924769049538099,1.0,127.527
+SSDP+,burczynski-pn-width-8_binary,7,0.9248930497860994,1.0,109.778
+SSDP+,burczynski-pn-width-8_binary,8,0.931514663029326,1.0,113.399
+SSDP+,burczynski-pn-width-8_binary,9,0.9283650567301136,1.0,107.034
+SSDP+,burczynski-pn-width-8_binary,10,0.9296050592101184,1.0,104.91
+SMHDD,burczynski-pn-width-8_binary,1,0.930497860995722,1.0,30.965
+SMHDD,burczynski-pn-width-8_binary,2,0.9290594581189161,1.0,42.47
+SMHDD,burczynski-pn-width-8_binary,3,0.9241986483972967,1.0,32.692
+SMHDD,burczynski-pn-width-8_binary,4,0.9300514601029202,1.0,28.435
+SMHDD,burczynski-pn-width-8_binary,5,0.9293818587637175,1.0,34.462
+SMHDD,burczynski-pn-width-8_binary,6,0.924769049538099,1.0,38.206
+SMHDD,burczynski-pn-width-8_binary,7,0.9248930497860994,1.0,31.735
+SMHDD,burczynski-pn-width-8_binary,8,0.931514663029326,1.0,31.729
+SMHDD,burczynski-pn-width-8_binary,9,0.9283650567301136,1.0,31.274
+SMHDD,burczynski-pn-width-8_binary,10,0.9296050592101184,1.0,28.76
+SD,chiaretti-pn-width-8_binary,1,0.867822265625,0.9054054054054054,63.945
+SD,chiaretti-pn-width-8_binary,2,0.867822265625,0.9054054054054054,63.898
+SD,chiaretti-pn-width-8_binary,3,0.867822265625,0.9054054054054054,63.479
+SD,chiaretti-pn-width-8_binary,4,0.867822265625,0.9054054054054054,63.614
+SD,chiaretti-pn-width-8_binary,5,0.867822265625,0.9054054054054054,63.604
+SD,chiaretti-pn-width-8_binary,6,0.867822265625,0.9054054054054054,63.58
+SD,chiaretti-pn-width-8_binary,7,0.867822265625,0.9054054054054054,63.594
+SD,chiaretti-pn-width-8_binary,8,0.867822265625,0.9054054054054054,63.536
+SD,chiaretti-pn-width-8_binary,9,0.867822265625,0.9054054054054054,63.433
+SD,chiaretti-pn-width-8_binary,10,0.867822265625,0.9054054054054054,63.621
+SSDP+,chiaretti-pn-width-8_binary,1,0.89375,1.0,91.077
+SSDP+,chiaretti-pn-width-8_binary,2,0.88076171875,1.0,60.238
+SSDP+,chiaretti-pn-width-8_binary,3,0.87861328125,1.0,57.628
+SSDP+,chiaretti-pn-width-8_binary,4,0.871044921875,1.0,57.891
+SSDP+,chiaretti-pn-width-8_binary,5,0.876953125,1.0,61.338
+SSDP+,chiaretti-pn-width-8_binary,6,0.88388671875,1.0,78.526
+SSDP+,chiaretti-pn-width-8_binary,7,0.8833984375,1.0,61.374
+SSDP+,chiaretti-pn-width-8_binary,8,0.883056640625,1.0,53.234
+SSDP+,chiaretti-pn-width-8_binary,9,0.88076171875,1.0,60.817
+SSDP+,chiaretti-pn-width-8_binary,10,0.882373046875,1.0,60.225
+SMHDD,chiaretti-pn-width-8_binary,1,0.89375,1.0,29.68
+SMHDD,chiaretti-pn-width-8_binary,2,0.88076171875,1.0,17.726
+SMHDD,chiaretti-pn-width-8_binary,3,0.87861328125,1.0,17.052
+SMHDD,chiaretti-pn-width-8_binary,4,0.871044921875,1.0,15.691
+SMHDD,chiaretti-pn-width-8_binary,5,0.876953125,1.0,18.437
+SMHDD,chiaretti-pn-width-8_binary,6,0.88388671875,1.0,24.544
+SMHDD,chiaretti-pn-width-8_binary,7,0.8833984375,1.0,17.571
+SMHDD,chiaretti-pn-width-8_binary,8,0.883056640625,1.0,14.816
+SMHDD,chiaretti-pn-width-8_binary,9,0.88076171875,1.0,17.675
+SMHDD,chiaretti-pn-width-8_binary,10,0.882373046875,1.0,16.972
+SD,chin-pn-width-8_binary,1,0.839385234128124,0.96,89.012
+SD,chin-pn-width-8_binary,2,0.839385234128124,0.96,90.75
+SD,chin-pn-width-8_binary,3,0.839385234128124,0.96,92.191
+SD,chin-pn-width-8_binary,4,0.839385234128124,0.96,91.236
+SD,chin-pn-width-8_binary,5,0.839385234128124,0.96,91.012
+SD,chin-pn-width-8_binary,6,0.839385234128124,0.96,90.501
+SD,chin-pn-width-8_binary,7,0.839385234128124,0.96,89.775
+SD,chin-pn-width-8_binary,8,0.839385234128124,0.96,91.631
+SD,chin-pn-width-8_binary,9,0.839385234128124,0.96,90.82
+SD,chin-pn-width-8_binary,10,0.839385234128124,0.96,90.591
+SSDP+,chin-pn-width-8_binary,1,0.854840563056593,1.0,107.921
+SSDP+,chin-pn-width-8_binary,2,0.8517380063200228,1.0,123.398
+SSDP+,chin-pn-width-8_binary,3,0.8492961792588337,1.0,105.808
+SSDP+,chin-pn-width-8_binary,4,0.8489514507325481,1.0,95.456
+SSDP+,chin-pn-width-8_binary,5,0.8520827348463085,1.0,130.018
+SSDP+,chin-pn-width-8_binary,6,0.8483769031887387,1.0,118.963
+SSDP+,chin-pn-width-8_binary,7,0.8526572823901178,1.0,99.728
+SSDP+,chin-pn-width-8_binary,8,0.8505027291008332,1.0,95.804
+SSDP+,chin-pn-width-8_binary,9,0.8455903476012641,1.0,118.115
+SSDP+,chin-pn-width-8_binary,10,0.8508187302499282,1.0,101.565
+SMHDD,chin-pn-width-8_binary,1,0.854840563056593,1.0,31.642
+SMHDD,chin-pn-width-8_binary,2,0.8517380063200228,1.0,38.25
+SMHDD,chin-pn-width-8_binary,3,0.8492961792588337,1.0,31.47
+SMHDD,chin-pn-width-8_binary,4,0.8489514507325481,1.0,26.796
+SMHDD,chin-pn-width-8_binary,5,0.8520827348463085,1.0,40.233
+SMHDD,chin-pn-width-8_binary,6,0.8483769031887387,1.0,36.593
+SMHDD,chin-pn-width-8_binary,7,0.8526572823901178,1.0,29.024
+SMHDD,chin-pn-width-8_binary,8,0.8505027291008332,1.0,27.683
+SMHDD,chin-pn-width-8_binary,9,0.8455903476012641,1.0,36.45
+SMHDD,chin-pn-width-8_binary,10,0.8508187302499282,1.0,30.505
+SD,chowdary-pn-width-8_binary,1,0.9298076923076926,1.0,34.996
+SD,chowdary-pn-width-8_binary,2,0.9298076923076926,1.0,35.258
+SD,chowdary-pn-width-8_binary,3,0.9298076923076926,1.0,35.487
+SD,chowdary-pn-width-8_binary,4,0.9298076923076926,1.0,35.577
+SD,chowdary-pn-width-8_binary,5,0.9298076923076926,1.0,35.523
+SD,chowdary-pn-width-8_binary,6,0.9298076923076926,1.0,35.552
+SD,chowdary-pn-width-8_binary,7,0.9298076923076926,1.0,35.607
+SD,chowdary-pn-width-8_binary,8,0.9298076923076926,1.0,35.511
+SD,chowdary-pn-width-8_binary,9,0.9298076923076926,1.0,35.583
+SD,chowdary-pn-width-8_binary,10,0.9298076923076926,1.0,35.49
+SSDP+,chowdary-pn-width-8_binary,1,0.891198224852071,1.0,40.515
+SSDP+,chowdary-pn-width-8_binary,2,0.8781065088757398,1.0,34.603
+SSDP+,chowdary-pn-width-8_binary,3,0.8873520710059172,1.0,33.258
+SSDP+,chowdary-pn-width-8_binary,4,0.8865384615384617,1.0,36.932
+SSDP+,chowdary-pn-width-8_binary,5,0.8849112426035504,1.0,37.321
+SSDP+,chowdary-pn-width-8_binary,6,0.8903106508875741,1.0,37.388
+SSDP+,chowdary-pn-width-8_binary,7,0.8934171597633138,1.0,39.061
+SSDP+,chowdary-pn-width-8_binary,8,0.8873520710059172,1.0,38.777
+SSDP+,chowdary-pn-width-8_binary,9,0.8919378698224854,1.0,41.72
+SSDP+,chowdary-pn-width-8_binary,10,0.8926775147928995,1.0,36.657
+SMHDD,chowdary-pn-width-8_binary,1,0.891198224852071,1.0,12.43
+SMHDD,chowdary-pn-width-8_binary,2,0.8781065088757398,1.0,10.232
+SMHDD,chowdary-pn-width-8_binary,3,0.8873520710059172,1.0,9.339
+SMHDD,chowdary-pn-width-8_binary,4,0.8865384615384617,1.0,11.14
+SMHDD,chowdary-pn-width-8_binary,5,0.8849112426035504,1.0,11.216
+SMHDD,chowdary-pn-width-8_binary,6,0.8903106508875741,1.0,11.142
+SMHDD,chowdary-pn-width-8_binary,7,0.8934171597633138,1.0,11.557
+SMHDD,chowdary-pn-width-8_binary,8,0.8873520710059172,1.0,11.374
+SMHDD,chowdary-pn-width-8_binary,9,0.8919378698224854,1.0,12.601
+SMHDD,chowdary-pn-width-8_binary,10,0.8926775147928995,1.0,10.742
+SD,christensen-pn-width-8_binary,1,0.9550668724279836,1.0,3.322
+SD,christensen-pn-width-8_binary,2,0.9550668724279836,1.0,3.346
+SD,christensen-pn-width-8_binary,3,0.9550668724279836,1.0,3.384
+SD,christensen-pn-width-8_binary,4,0.9550668724279836,1.0,3.371
+SD,christensen-pn-width-8_binary,5,0.9550668724279836,1.0,3.362
+SD,christensen-pn-width-8_binary,6,0.9550668724279836,1.0,3.376
+SD,christensen-pn-width-8_binary,7,0.9550668724279836,1.0,3.379
+SD,christensen-pn-width-8_binary,8,0.9550668724279836,1.0,3.388
+SD,christensen-pn-width-8_binary,9,0.9550668724279836,1.0,3.382
+SD,christensen-pn-width-8_binary,10,0.9550668724279836,1.0,3.365
+SSDP+,christensen-pn-width-8_binary,1,0.9255829903978052,1.0,2.296
+SSDP+,christensen-pn-width-8_binary,2,0.9180641289437587,1.0,2.154
+SSDP+,christensen-pn-width-8_binary,3,0.9150977366255144,1.0,2.146
+SSDP+,christensen-pn-width-8_binary,4,0.9101680384087792,1.0,2.007
+SSDP+,christensen-pn-width-8_binary,5,0.9176354595336076,1.0,2.176
+SSDP+,christensen-pn-width-8_binary,6,0.913966049382716,1.0,2.42
+SSDP+,christensen-pn-width-8_binary,7,0.9158350480109739,1.0,2.272
+SSDP+,christensen-pn-width-8_binary,8,0.9137345679012345,1.0,2.183
+SSDP+,christensen-pn-width-8_binary,9,0.9138460219478738,1.0,2.268
+SSDP+,christensen-pn-width-8_binary,10,0.9123971193415636,1.0,2.439
+SMHDD,christensen-pn-width-8_binary,1,0.9255829903978052,1.0,0.556
+SMHDD,christensen-pn-width-8_binary,2,0.9180641289437587,1.0,0.5
+SMHDD,christensen-pn-width-8_binary,3,0.9150977366255144,1.0,0.51
+SMHDD,christensen-pn-width-8_binary,4,0.9101680384087792,1.0,0.448
+SMHDD,christensen-pn-width-8_binary,5,0.9176354595336076,1.0,0.542
+SMHDD,christensen-pn-width-8_binary,6,0.913966049382716,1.0,0.607
+SMHDD,christensen-pn-width-8_binary,7,0.9158350480109739,1.0,0.572
+SMHDD,christensen-pn-width-8_binary,8,0.9137345679012345,1.0,0.541
+SMHDD,christensen-pn-width-8_binary,9,0.9138460219478738,1.0,0.565
+SMHDD,christensen-pn-width-8_binary,10,0.9123971193415636,1.0,0.624
+SD,golub-pn-width-8_binary,1,0.8837191358024692,1.0,9.46
+SD,golub-pn-width-8_binary,2,0.8837191358024692,1.0,9.499
+SD,golub-pn-width-8_binary,3,0.8837191358024692,1.0,9.463
+SD,golub-pn-width-8_binary,4,0.8837191358024692,1.0,9.474
+SD,golub-pn-width-8_binary,5,0.8837191358024692,1.0,9.465
+SD,golub-pn-width-8_binary,6,0.8837191358024692,1.0,9.484
+SD,golub-pn-width-8_binary,7,0.8837191358024692,1.0,9.472
+SD,golub-pn-width-8_binary,8,0.8837191358024692,1.0,9.431
+SD,golub-pn-width-8_binary,9,0.8837191358024692,1.0,9.456
+SD,golub-pn-width-8_binary,10,0.8837191358024692,1.0,9.464
+SSDP+,golub-pn-width-8_binary,1,0.8393518518518519,1.0,6.931
+SSDP+,golub-pn-width-8_binary,2,0.8395833333333333,1.0,6.292
+SSDP+,golub-pn-width-8_binary,3,0.8354938271604938,1.0,6.14
+SSDP+,golub-pn-width-8_binary,4,0.8415123456790123,1.0,6.04
+SSDP+,golub-pn-width-8_binary,5,0.8393518518518519,1.0,6.342
+SSDP+,golub-pn-width-8_binary,6,0.8308641975308643,1.0,5.862
+SSDP+,golub-pn-width-8_binary,7,0.8342592592592591,1.0,6.363
+SSDP+,golub-pn-width-8_binary,8,0.8291666666666666,1.0,6.309
+SSDP+,golub-pn-width-8_binary,9,0.8434413580246914,1.0,6.531
+SSDP+,golub-pn-width-8_binary,10,0.8374228395061729,1.0,6.262
+SMHDD,golub-pn-width-8_binary,1,0.8393518518518519,1.0,2.008
+SMHDD,golub-pn-width-8_binary,2,0.8395833333333333,1.0,1.797
+SMHDD,golub-pn-width-8_binary,3,0.8354938271604938,1.0,1.779
+SMHDD,golub-pn-width-8_binary,4,0.8415123456790123,1.0,1.765
+SMHDD,golub-pn-width-8_binary,5,0.8393518518518519,1.0,1.869
+SMHDD,golub-pn-width-8_binary,6,0.8308641975308643,1.0,1.771
+SMHDD,golub-pn-width-8_binary,7,0.8342592592592591,1.0,1.976
+SMHDD,golub-pn-width-8_binary,8,0.8291666666666666,1.0,1.989
+SMHDD,golub-pn-width-8_binary,9,0.8434413580246914,1.0,2.041
+SMHDD,golub-pn-width-8_binary,10,0.8374228395061729,1.0,1.853
+SD,gordon-pn-width-8_binary,1,0.3599053254437869,1.0,15.083
+SD,gordon-pn-width-8_binary,2,0.3599053254437869,1.0,15.092
+SD,gordon-pn-width-8_binary,3,0.3599053254437869,1.0,15.147
+SD,gordon-pn-width-8_binary,4,0.3599053254437869,1.0,15.055
+SD,gordon-pn-width-8_binary,5,0.3599053254437869,1.0,15.017
+SD,gordon-pn-width-8_binary,6,0.3599053254437869,1.0,15.008
+SD,gordon-pn-width-8_binary,7,0.3599053254437869,1.0,15.045
+SD,gordon-pn-width-8_binary,8,0.3599053254437869,1.0,15.083
+SD,gordon-pn-width-8_binary,9,0.3599053254437869,1.0,15.079
+SD,gordon-pn-width-8_binary,10,0.3599053254437869,1.0,15.033
+SSDP+,gordon-pn-width-8_binary,1,0.353230769230769,1.0,10.419
+SSDP+,gordon-pn-width-8_binary,2,0.35223668639053235,1.0,11.157
+SSDP+,gordon-pn-width-8_binary,3,0.3525680473372779,1.0,11.187
+SSDP+,gordon-pn-width-8_binary,4,0.3505798816568046,1.0,11.131
+SSDP+,gordon-pn-width-8_binary,5,0.3499171597633135,1.0,11.088
+SSDP+,gordon-pn-width-8_binary,6,0.3525680473372779,1.0,11.253
+SSDP+,gordon-pn-width-8_binary,7,0.35190532544378683,1.0,11.09
+SSDP+,gordon-pn-width-8_binary,8,0.3535621301775146,1.0,11.164
+SSDP+,gordon-pn-width-8_binary,9,0.353230769230769,1.0,11.552
+SSDP+,gordon-pn-width-8_binary,10,0.35223668639053235,1.0,11.094
+SMHDD,gordon-pn-width-8_binary,1,0.353230769230769,1.0,2.762
+SMHDD,gordon-pn-width-8_binary,2,0.35223668639053235,1.0,2.662
+SMHDD,gordon-pn-width-8_binary,3,0.3525680473372779,1.0,2.802
+SMHDD,gordon-pn-width-8_binary,4,0.3505798816568046,1.0,2.779
+SMHDD,gordon-pn-width-8_binary,5,0.3499171597633135,1.0,2.838
+SMHDD,gordon-pn-width-8_binary,6,0.3525680473372779,1.0,2.816
+SMHDD,gordon-pn-width-8_binary,7,0.35190532544378683,1.0,2.769
+SMHDD,gordon-pn-width-8_binary,8,0.3535621301775146,1.0,2.79
+SMHDD,gordon-pn-width-8_binary,9,0.353230769230769,1.0,3.0
+SMHDD,gordon-pn-width-8_binary,10,0.35223668639053235,1.0,2.786
+SD,gravier-pn-width-8_binary,1,0.7485675355875074,0.8828828828828829,23.124
+SD,gravier-pn-width-8_binary,2,0.7485675355875074,0.8828828828828829,23.319
+SD,gravier-pn-width-8_binary,3,0.7485675355875074,0.8828828828828829,23.249
+SD,gravier-pn-width-8_binary,4,0.7485675355875074,0.8828828828828829,23.24
+SD,gravier-pn-width-8_binary,5,0.7485675355875074,0.8828828828828829,23.222
+SD,gravier-pn-width-8_binary,6,0.7485675355875074,0.8828828828828829,23.172
+SD,gravier-pn-width-8_binary,7,0.7485675355875074,0.8828828828828829,23.24
+SD,gravier-pn-width-8_binary,8,0.7485675355875074,0.8828828828828829,23.19
+SD,gravier-pn-width-8_binary,9,0.7485675355875074,0.8828828828828829,23.203
+SD,gravier-pn-width-8_binary,10,0.7485675355875074,0.8828828828828829,23.245
+SSDP+,gravier-pn-width-8_binary,1,0.797705188425544,0.990990990990991,33.175
+SSDP+,gravier-pn-width-8_binary,2,0.7913084011617484,0.990990990990991,43.36
+SSDP+,gravier-pn-width-8_binary,3,0.800946609774463,1.0,51.67
+SSDP+,gravier-pn-width-8_binary,4,0.7928860841191868,1.0,32.558
+SSDP+,gravier-pn-width-8_binary,5,0.7929147692638674,1.0,26.773
+SSDP+,gravier-pn-width-8_binary,6,0.7946071928000285,1.0,40.643
+SSDP+,gravier-pn-width-8_binary,7,0.7848972713256123,1.0,29.439
+SSDP+,gravier-pn-width-8_binary,8,0.794506794793646,0.990990990990991,41.447
+SSDP+,gravier-pn-width-8_binary,9,0.8041163182616803,1.0,55.385
+SSDP+,gravier-pn-width-8_binary,10,0.7857147979490121,0.9819819819819819,33.062
+SMHDD,gravier-pn-width-8_binary,1,0.797705188425544,0.990990990990991,9.211
+SMHDD,gravier-pn-width-8_binary,2,0.7913084011617484,0.990990990990991,12.916
+SMHDD,gravier-pn-width-8_binary,3,0.800946609774463,1.0,15.971
+SMHDD,gravier-pn-width-8_binary,4,0.7928860841191868,1.0,9.026
+SMHDD,gravier-pn-width-8_binary,5,0.7929147692638674,1.0,7.058
+SMHDD,gravier-pn-width-8_binary,6,0.7946071928000285,1.0,11.809
+SMHDD,gravier-pn-width-8_binary,7,0.7848972713256123,1.0,8.137
+SMHDD,gravier-pn-width-8_binary,8,0.794506794793646,0.990990990990991,12.339
+SMHDD,gravier-pn-width-8_binary,9,0.8041163182616803,1.0,17.193
+SMHDD,gravier-pn-width-8_binary,10,0.7857147979490121,0.9819819819819819,9.244
+SD,khan-pn-width-8_binary,1,0.894230284706475,1.0,2.027
+SD,khan-pn-width-8_binary,2,0.894230284706475,1.0,2.045
+SD,khan-pn-width-8_binary,3,0.894230284706475,1.0,2.037
+SD,khan-pn-width-8_binary,4,0.894230284706475,1.0,2.04
+SD,khan-pn-width-8_binary,5,0.894230284706475,1.0,2.033
+SD,khan-pn-width-8_binary,6,0.894230284706475,1.0,2.033
+SD,khan-pn-width-8_binary,7,0.894230284706475,1.0,2.034
+SD,khan-pn-width-8_binary,8,0.894230284706475,1.0,2.042
+SD,khan-pn-width-8_binary,9,0.894230284706475,1.0,2.035
+SD,khan-pn-width-8_binary,10,0.894230284706475,1.0,2.033
+SSDP+,khan-pn-width-8_binary,1,0.87336860670194,1.0,1.575
+SSDP+,khan-pn-width-8_binary,2,0.8698412698412696,1.0,1.54
+SSDP+,khan-pn-width-8_binary,3,0.8698412698412696,1.0,1.554
+SSDP+,khan-pn-width-8_binary,4,0.8687326782564876,1.0,1.508
+SSDP+,khan-pn-width-8_binary,5,0.8739732930209122,1.0,1.583
+SSDP+,khan-pn-width-8_binary,6,0.8745779793398842,1.0,1.546
+SSDP+,khan-pn-width-8_binary,7,0.8780045351473923,1.0,1.512
+SSDP+,khan-pn-width-8_binary,8,0.8820357772738724,1.0,1.541
+SSDP+,khan-pn-width-8_binary,9,0.8687326782564876,1.0,1.533
+SSDP+,khan-pn-width-8_binary,10,0.8681279919375156,1.0,1.602
+SMHDD,khan-pn-width-8_binary,1,0.87336860670194,1.0,0.463
+SMHDD,khan-pn-width-8_binary,2,0.8698412698412696,1.0,0.443
+SMHDD,khan-pn-width-8_binary,3,0.8698412698412696,1.0,0.426
+SMHDD,khan-pn-width-8_binary,4,0.8687326782564876,1.0,0.44
+SMHDD,khan-pn-width-8_binary,5,0.8739732930209122,1.0,0.46
+SMHDD,khan-pn-width-8_binary,6,0.8745779793398842,1.0,0.433
+SMHDD,khan-pn-width-8_binary,7,0.8780045351473923,1.0,0.441
+SMHDD,khan-pn-width-8_binary,8,0.8820357772738724,1.0,0.439
+SMHDD,khan-pn-width-8_binary,9,0.8687326782564876,1.0,0.45
+SMHDD,khan-pn-width-8_binary,10,0.8681279919375156,1.0,0.464
+SD,nakayama-pn-width-8_binary,1,0.5806213017751478,1.0,49.595
+SD,nakayama-pn-width-8_binary,2,0.5806213017751478,1.0,49.946
+SD,nakayama-pn-width-8_binary,3,0.5806213017751478,1.0,49.387
+SD,nakayama-pn-width-8_binary,4,0.5806213017751478,1.0,49.54
+SD,nakayama-pn-width-8_binary,5,0.5806213017751478,1.0,49.39
+SD,nakayama-pn-width-8_binary,6,0.5806213017751478,1.0,49.288
+SD,nakayama-pn-width-8_binary,7,0.5806213017751478,1.0,49.292
+SD,nakayama-pn-width-8_binary,8,0.5806213017751478,1.0,49.388
+SD,nakayama-pn-width-8_binary,9,0.5806213017751478,1.0,49.36
+SD,nakayama-pn-width-8_binary,10,0.5806213017751478,1.0,49.276
+SSDP+,nakayama-pn-width-8_binary,1,0.6057692307692307,1.0,42.095
+SSDP+,nakayama-pn-width-8_binary,2,0.603550295857988,1.0,45.757
+SSDP+,nakayama-pn-width-8_binary,3,0.6050295857988165,1.0,45.126
+SSDP+,nakayama-pn-width-8_binary,4,0.6057692307692307,1.0,40.281
+SSDP+,nakayama-pn-width-8_binary,5,0.6057692307692307,1.0,43.589
+SSDP+,nakayama-pn-width-8_binary,6,0.6050295857988165,1.0,43.197
+SSDP+,nakayama-pn-width-8_binary,7,0.606508875739645,1.0,42.19
+SSDP+,nakayama-pn-width-8_binary,8,0.6013313609467454,1.0,44.802
+SSDP+,nakayama-pn-width-8_binary,9,0.6050295857988165,1.0,45.424
+SSDP+,nakayama-pn-width-8_binary,10,0.6050295857988165,1.0,43.25
+SMHDD,nakayama-pn-width-8_binary,1,0.6057692307692307,1.0,11.439
+SMHDD,nakayama-pn-width-8_binary,2,0.603550295857988,1.0,12.613
+SMHDD,nakayama-pn-width-8_binary,3,0.6050295857988165,1.0,12.325
+SMHDD,nakayama-pn-width-8_binary,4,0.6057692307692307,1.0,10.629
+SMHDD,nakayama-pn-width-8_binary,5,0.6057692307692307,1.0,11.708
+SMHDD,nakayama-pn-width-8_binary,6,0.6050295857988165,1.0,11.795
+SMHDD,nakayama-pn-width-8_binary,7,0.606508875739645,1.0,11.254
+SMHDD,nakayama-pn-width-8_binary,8,0.6013313609467454,1.0,12.526
+SMHDD,nakayama-pn-width-8_binary,9,0.6050295857988165,1.0,12.608
+SMHDD,nakayama-pn-width-8_binary,10,0.6050295857988165,1.0,11.943
+SD,pomeroy-pn-width-8_binary,1,0.7843333333333332,1.0,10.737
+SD,pomeroy-pn-width-8_binary,2,0.7843333333333332,1.0,10.83
+SD,pomeroy-pn-width-8_binary,3,0.7843333333333332,1.0,10.82
+SD,pomeroy-pn-width-8_binary,4,0.7843333333333332,1.0,10.868
+SD,pomeroy-pn-width-8_binary,5,0.7843333333333332,1.0,10.876
+SD,pomeroy-pn-width-8_binary,6,0.7843333333333332,1.0,10.875
+SD,pomeroy-pn-width-8_binary,7,0.7843333333333332,1.0,10.891
+SD,pomeroy-pn-width-8_binary,8,0.7843333333333332,1.0,10.868
+SD,pomeroy-pn-width-8_binary,9,0.7843333333333332,1.0,10.845
+SD,pomeroy-pn-width-8_binary,10,0.7843333333333332,1.0,10.879
+SSDP+,pomeroy-pn-width-8_binary,1,0.8213333333333332,1.0,8.68
+SSDP+,pomeroy-pn-width-8_binary,2,0.8213333333333332,1.0,8.449
+SSDP+,pomeroy-pn-width-8_binary,3,0.8236666666666664,0.9743589743589743,8.062
+SSDP+,pomeroy-pn-width-8_binary,4,0.8283333333333331,0.9743589743589743,8.873
+SSDP+,pomeroy-pn-width-8_binary,5,0.8263333333333331,1.0,12.183
+SSDP+,pomeroy-pn-width-8_binary,6,0.8263333333333331,1.0,11.073
+SSDP+,pomeroy-pn-width-8_binary,7,0.8263333333333331,1.0,9.109
+SSDP+,pomeroy-pn-width-8_binary,8,0.8353333333333332,1.0,11.795
+SSDP+,pomeroy-pn-width-8_binary,9,0.8236666666666664,1.0,11.105
+SSDP+,pomeroy-pn-width-8_binary,10,0.8216666666666665,1.0,9.261
+SMHDD,pomeroy-pn-width-8_binary,1,0.8213333333333332,1.0,2.33
+SMHDD,pomeroy-pn-width-8_binary,2,0.8213333333333332,1.0,2.328
+SMHDD,pomeroy-pn-width-8_binary,3,0.8236666666666664,0.9743589743589743,2.17
+SMHDD,pomeroy-pn-width-8_binary,4,0.8283333333333331,0.9743589743589743,2.487
+SMHDD,pomeroy-pn-width-8_binary,5,0.8263333333333331,1.0,3.743
+SMHDD,pomeroy-pn-width-8_binary,6,0.8263333333333331,1.0,3.501
+SMHDD,pomeroy-pn-width-8_binary,7,0.8263333333333331,1.0,2.495
+SMHDD,pomeroy-pn-width-8_binary,8,0.8353333333333332,1.0,3.581
+SMHDD,pomeroy-pn-width-8_binary,9,0.8236666666666664,1.0,3.4
+SMHDD,pomeroy-pn-width-8_binary,10,0.8216666666666665,1.0,2.589
+SD,shipp-pn-width-8_binary,1,0.6446955641760834,0.9482758620689655,8.897
+SD,shipp-pn-width-8_binary,2,0.6446955641760834,0.9482758620689655,8.962
+SD,shipp-pn-width-8_binary,3,0.6446955641760834,0.9482758620689655,8.991
+SD,shipp-pn-width-8_binary,4,0.6446955641760834,0.9482758620689655,9.006
+SD,shipp-pn-width-8_binary,5,0.6446955641760834,0.9482758620689655,9.016
+SD,shipp-pn-width-8_binary,6,0.6446955641760834,0.9482758620689655,8.984
+SD,shipp-pn-width-8_binary,7,0.6446955641760834,0.9482758620689655,8.979
+SD,shipp-pn-width-8_binary,8,0.6446955641760834,0.9482758620689655,9.011
+SD,shipp-pn-width-8_binary,9,0.6446955641760834,0.9482758620689655,9.011
+SD,shipp-pn-width-8_binary,10,0.6446955641760834,0.9482758620689655,8.988
+SSDP+,shipp-pn-width-8_binary,1,0.6857817507168157,1.0,10.626
+SSDP+,shipp-pn-width-8_binary,2,0.690909090909091,1.0,10.539
+SSDP+,shipp-pn-width-8_binary,3,0.6844999156687469,1.0,8.34
+SSDP+,shipp-pn-width-8_binary,4,0.6870635857648846,1.0,10.851
+SSDP+,shipp-pn-width-8_binary,5,0.6857817507168157,1.0,10.559
+SSDP+,shipp-pn-width-8_binary,6,0.690909090909091,1.0,11.189
+SSDP+,shipp-pn-width-8_binary,7,0.6921909259571598,1.0,11.955
+SSDP+,shipp-pn-width-8_binary,8,0.6857142857142857,1.0,10.854
+SSDP+,shipp-pn-width-8_binary,9,0.6921909259571597,1.0,10.277
+SSDP+,shipp-pn-width-8_binary,10,0.6857817507168157,1.0,11.862
+SMHDD,shipp-pn-width-8_binary,1,0.6857817507168157,1.0,3.185
+SMHDD,shipp-pn-width-8_binary,2,0.690909090909091,1.0,3.005
+SMHDD,shipp-pn-width-8_binary,3,0.6844999156687469,1.0,2.212
+SMHDD,shipp-pn-width-8_binary,4,0.6870635857648846,1.0,2.893
+SMHDD,shipp-pn-width-8_binary,5,0.6857817507168157,1.0,2.786
+SMHDD,shipp-pn-width-8_binary,6,0.690909090909091,1.0,3.056
+SMHDD,shipp-pn-width-8_binary,7,0.6921909259571598,1.0,3.362
+SMHDD,shipp-pn-width-8_binary,8,0.6857142857142857,1.0,3.061
+SMHDD,shipp-pn-width-8_binary,9,0.6921909259571597,1.0,2.737
+SMHDD,shipp-pn-width-8_binary,10,0.6857817507168157,1.0,3.428
+SD,singh-pn-width-8_binary,1,0.9397923875432527,0.9615384615384616,21.267
+SD,singh-pn-width-8_binary,2,0.9397923875432527,0.9615384615384616,21.474
+SD,singh-pn-width-8_binary,3,0.9397923875432527,0.9615384615384616,21.523
+SD,singh-pn-width-8_binary,4,0.9397923875432527,0.9615384615384616,21.604
+SD,singh-pn-width-8_binary,5,0.9397923875432527,0.9615384615384616,21.464
+SD,singh-pn-width-8_binary,6,0.9397923875432527,0.9615384615384616,21.457
+SD,singh-pn-width-8_binary,7,0.9397923875432527,0.9615384615384616,21.484
+SD,singh-pn-width-8_binary,8,0.9397923875432527,0.9615384615384616,21.531
+SD,singh-pn-width-8_binary,9,0.9397923875432527,0.9615384615384616,21.377
+SD,singh-pn-width-8_binary,10,0.9397923875432527,0.9615384615384616,21.61
+SSDP+,singh-pn-width-8_binary,1,0.9294117647058823,1.0,33.554
+SSDP+,singh-pn-width-8_binary,2,0.9234909650134565,1.0,28.973
+SSDP+,singh-pn-width-8_binary,3,0.9290272971933872,1.0,28.241
+SSDP+,singh-pn-width-8_binary,4,0.9180315263360246,1.0,28.499
+SSDP+,singh-pn-width-8_binary,5,0.9274125336409075,1.0,29.081
+SSDP+,singh-pn-width-8_binary,6,0.9203383314109956,1.0,33.584
+SSDP+,singh-pn-width-8_binary,7,0.9270280661284123,1.0,28.719
+SSDP+,singh-pn-width-8_binary,8,0.9221068819684737,1.0,31.883
+SSDP+,singh-pn-width-8_binary,9,0.9272587466359093,1.0,30.747
+SSDP+,singh-pn-width-8_binary,10,0.916570549788543,1.0,25.188
+SMHDD,singh-pn-width-8_binary,1,0.9294117647058823,1.0,10.546
+SMHDD,singh-pn-width-8_binary,2,0.9234909650134565,1.0,8.586
+SMHDD,singh-pn-width-8_binary,3,0.9290272971933872,1.0,8.271
+SMHDD,singh-pn-width-8_binary,4,0.9180315263360246,1.0,8.596
+SMHDD,singh-pn-width-8_binary,5,0.9274125336409075,1.0,8.353
+SMHDD,singh-pn-width-8_binary,6,0.9203383314109956,1.0,10.474
+SMHDD,singh-pn-width-8_binary,7,0.9270280661284123,1.0,8.303
+SMHDD,singh-pn-width-8_binary,8,0.9221068819684737,1.0,9.619
+SMHDD,singh-pn-width-8_binary,9,0.9272587466359093,1.0,9.241
+SMHDD,singh-pn-width-8_binary,10,0.916570549788543,1.0,7.072
+SD,sorlie-pn-width-8_binary,1,0.8474852071005916,1.0,0.824
+SD,sorlie-pn-width-8_binary,2,0.8474852071005916,1.0,0.827
+SD,sorlie-pn-width-8_binary,3,0.8474852071005916,1.0,0.822
+SD,sorlie-pn-width-8_binary,4,0.8474852071005916,1.0,0.818
+SD,sorlie-pn-width-8_binary,5,0.8474852071005916,1.0,0.822
+SD,sorlie-pn-width-8_binary,6,0.8474852071005916,1.0,0.826
+SD,sorlie-pn-width-8_binary,7,0.8474852071005916,1.0,0.825
+SD,sorlie-pn-width-8_binary,8,0.8474852071005916,1.0,0.829
+SD,sorlie-pn-width-8_binary,9,0.8474852071005916,1.0,0.831
+SD,sorlie-pn-width-8_binary,10,0.8474852071005916,1.0,0.823
+SSDP+,sorlie-pn-width-8_binary,1,0.8474852071005916,1.0,0.353
+SSDP+,sorlie-pn-width-8_binary,2,0.8374260355029584,1.0,0.357
+SSDP+,sorlie-pn-width-8_binary,3,0.8449704142011834,1.0,0.363
+SSDP+,sorlie-pn-width-8_binary,4,0.8347633136094673,1.0,0.417
+SSDP+,sorlie-pn-width-8_binary,5,0.8424556213017752,1.0,0.395
+SSDP+,sorlie-pn-width-8_binary,6,0.8399408284023668,1.0,0.431
+SSDP+,sorlie-pn-width-8_binary,7,0.8399408284023668,1.0,0.377
+SSDP+,sorlie-pn-width-8_binary,8,0.8449704142011834,1.0,0.342
+SSDP+,sorlie-pn-width-8_binary,9,0.8399408284023668,1.0,0.338
+SSDP+,sorlie-pn-width-8_binary,10,0.8374260355029584,1.0,0.381
+SMHDD,sorlie-pn-width-8_binary,1,0.8474852071005916,1.0,0.112
+SMHDD,sorlie-pn-width-8_binary,2,0.8374260355029584,1.0,0.116
+SMHDD,sorlie-pn-width-8_binary,3,0.8449704142011834,1.0,0.119
+SMHDD,sorlie-pn-width-8_binary,4,0.8347633136094673,1.0,0.146
+SMHDD,sorlie-pn-width-8_binary,5,0.8424556213017752,1.0,0.137
+SMHDD,sorlie-pn-width-8_binary,6,0.8399408284023668,1.0,0.156
+SMHDD,sorlie-pn-width-8_binary,7,0.8399408284023668,1.0,0.129
+SMHDD,sorlie-pn-width-8_binary,8,0.8449704142011834,1.0,0.115
+SMHDD,sorlie-pn-width-8_binary,9,0.8399408284023668,1.0,0.107
+SMHDD,sorlie-pn-width-8_binary,10,0.8374260355029584,1.0,0.134
+SD,subramanian-pn-width-8_binary,1,0.8411199999999999,1.0,10.818
+SD,subramanian-pn-width-8_binary,2,0.8411199999999999,1.0,10.805
+SD,subramanian-pn-width-8_binary,3,0.8411199999999999,1.0,10.805
+SD,subramanian-pn-width-8_binary,4,0.8411199999999999,1.0,10.841
+SD,subramanian-pn-width-8_binary,5,0.8411199999999999,1.0,10.852
+SD,subramanian-pn-width-8_binary,6,0.8411199999999999,1.0,10.799
+SD,subramanian-pn-width-8_binary,7,0.8411199999999999,1.0,10.794
+SD,subramanian-pn-width-8_binary,8,0.8411199999999999,1.0,10.808
+SD,subramanian-pn-width-8_binary,9,0.8411199999999999,1.0,10.806
+SD,subramanian-pn-width-8_binary,10,0.8411199999999999,1.0,10.857
+SSDP+,subramanian-pn-width-8_binary,1,0.80848,1.0,7.874
+SSDP+,subramanian-pn-width-8_binary,2,0.81152,1.0,7.891
+SSDP+,subramanian-pn-width-8_binary,3,0.8088,1.0,8.274
+SSDP+,subramanian-pn-width-8_binary,4,0.82416,1.0,9.121
+SSDP+,subramanian-pn-width-8_binary,5,0.82416,1.0,8.627
+SSDP+,subramanian-pn-width-8_binary,6,0.8062400000000001,1.0,8.921
+SSDP+,subramanian-pn-width-8_binary,7,0.8326399999999999,1.0,8.71
+SSDP+,subramanian-pn-width-8_binary,8,0.8065599999999999,1.0,8.004
+SSDP+,subramanian-pn-width-8_binary,9,0.82416,1.0,8.349
+SSDP+,subramanian-pn-width-8_binary,10,0.8172799999999999,1.0,8.244
+SMHDD,subramanian-pn-width-8_binary,1,0.80848,1.0,2.378
+SMHDD,subramanian-pn-width-8_binary,2,0.81152,1.0,2.413
+SMHDD,subramanian-pn-width-8_binary,3,0.8088,1.0,2.67
+SMHDD,subramanian-pn-width-8_binary,4,0.82416,1.0,2.907
+SMHDD,subramanian-pn-width-8_binary,5,0.82416,1.0,2.665
+SMHDD,subramanian-pn-width-8_binary,6,0.8062400000000001,1.0,2.868
+SMHDD,subramanian-pn-width-8_binary,7,0.8326399999999999,1.0,2.669
+SMHDD,subramanian-pn-width-8_binary,8,0.8065599999999999,1.0,2.408
+SMHDD,subramanian-pn-width-8_binary,9,0.82416,1.0,2.523
+SMHDD,subramanian-pn-width-8_binary,10,0.8172799999999999,1.0,2.593
+SD,tian-pn-width-8_binary,1,0.46825310978907525,0.9044117647058824,67.82
+SD,tian-pn-width-8_binary,2,0.46825310978907525,0.9044117647058824,68.594
+SD,tian-pn-width-8_binary,3,0.46825310978907525,0.9044117647058824,67.234
+SD,tian-pn-width-8_binary,4,0.46825310978907525,0.9044117647058824,65.742
+SD,tian-pn-width-8_binary,5,0.46825310978907525,0.9044117647058824,65.793
+SD,tian-pn-width-8_binary,6,0.46825310978907525,0.9044117647058824,65.783
+SD,tian-pn-width-8_binary,7,0.46825310978907525,0.9044117647058824,65.654
+SD,tian-pn-width-8_binary,8,0.46825310978907525,0.9044117647058824,65.738
+SD,tian-pn-width-8_binary,9,0.46825310978907525,0.9044117647058824,65.639
+SD,tian-pn-width-8_binary,10,0.46825310978907525,0.9044117647058824,65.627
+SSDP+,tian-pn-width-8_binary,1,0.5529475392103841,0.9191176470588235,115.795
+SSDP+,tian-pn-width-8_binary,2,0.5617631151974041,0.9485294117647058,181.791
+SSDP+,tian-pn-width-8_binary,3,0.5697133585722014,0.9926470588235294,293.665
+SSDP+,tian-pn-width-8_binary,4,0.5686316928069226,0.9485294117647058,314.098
+SSDP+,tian-pn-width-8_binary,5,0.5720389399675503,0.9632352941176471,246.742
+SSDP+,tian-pn-width-8_binary,6,0.5532720389399677,1.0,161.01
+SSDP+,tian-pn-width-8_binary,7,0.5688480259599785,0.9338235294117647,273.373
+SSDP+,tian-pn-width-8_binary,8,0.5577609518658735,0.9485294117647058,225.269
+SSDP+,tian-pn-width-8_binary,9,0.5480800432666306,0.9044117647058824,162.271
+SSDP+,tian-pn-width-8_binary,10,0.5536506219578151,0.9485294117647058,199.0
+SMHDD,tian-pn-width-8_binary,1,0.5529475392103841,0.9191176470588235,28.482
+SMHDD,tian-pn-width-8_binary,2,0.5617631151974041,0.9485294117647058,45.1
+SMHDD,tian-pn-width-8_binary,3,0.5697133585722014,0.9926470588235294,77.0
+SMHDD,tian-pn-width-8_binary,4,0.5686316928069226,0.9485294117647058,94.966
+SMHDD,tian-pn-width-8_binary,5,0.5720389399675503,0.9632352941176471,65.917
+SMHDD,tian-pn-width-8_binary,6,0.5532720389399677,1.0,38.088
+SMHDD,tian-pn-width-8_binary,7,0.5688480259599785,0.9338235294117647,89.129
+SMHDD,tian-pn-width-8_binary,8,0.5577609518658735,0.9485294117647058,59.27
+SMHDD,tian-pn-width-8_binary,9,0.5480800432666306,0.9044117647058824,44.956
+SMHDD,tian-pn-width-8_binary,10,0.5536506219578151,0.9485294117647058,55.373
+SD,west-pn-width-8_binary,1,0.8874635568513117,1.0,5.708
+SD,west-pn-width-8_binary,2,0.8874635568513117,1.0,5.755
+SD,west-pn-width-8_binary,3,0.8874635568513117,1.0,5.757
+SD,west-pn-width-8_binary,4,0.8874635568513117,1.0,5.753
+SD,west-pn-width-8_binary,5,0.8874635568513117,1.0,5.768
+SD,west-pn-width-8_binary,6,0.8874635568513117,1.0,5.769
+SD,west-pn-width-8_binary,7,0.8874635568513117,1.0,5.761
+SD,west-pn-width-8_binary,8,0.8874635568513117,1.0,5.793
+SD,west-pn-width-8_binary,9,0.8874635568513117,1.0,5.811
+SD,west-pn-width-8_binary,10,0.8874635568513117,1.0,5.775
+SSDP+,west-pn-width-8_binary,1,0.9274468971261974,1.0,6.549
+SSDP+,west-pn-width-8_binary,2,0.9274468971261974,1.0,6.732
+SSDP+,west-pn-width-8_binary,3,0.9276134943773429,1.0,6.415
+SSDP+,west-pn-width-8_binary,4,0.9272802998750521,1.0,6.64
+SSDP+,west-pn-width-8_binary,5,0.9264473136193253,1.0,6.428
+SSDP+,west-pn-width-8_binary,6,0.9269471053727614,1.0,6.248
+SSDP+,west-pn-width-8_binary,7,0.9271137026239067,1.0,6.28
+SSDP+,west-pn-width-8_binary,8,0.9276134943773429,1.0,7.234
+SSDP+,west-pn-width-8_binary,9,0.9231153685964181,1.0,6.564
+SSDP+,west-pn-width-8_binary,10,0.9271137026239067,1.0,6.403
+SMHDD,west-pn-width-8_binary,1,0.9274468971261974,1.0,1.921
+SMHDD,west-pn-width-8_binary,2,0.9274468971261974,1.0,2.023
+SMHDD,west-pn-width-8_binary,3,0.9276134943773429,1.0,1.889
+SMHDD,west-pn-width-8_binary,4,0.9272802998750521,1.0,1.979
+SMHDD,west-pn-width-8_binary,5,0.9264473136193253,1.0,1.841
+SMHDD,west-pn-width-8_binary,6,0.9269471053727614,1.0,1.816
+SMHDD,west-pn-width-8_binary,7,0.9271137026239067,1.0,1.808
+SMHDD,west-pn-width-8_binary,8,0.9276134943773429,1.0,2.076
+SMHDD,west-pn-width-8_binary,9,0.9231153685964181,1.0,1.911
+SMHDD,west-pn-width-8_binary,10,0.9271137026239067,1.0,1.791
+SD,yeoh-pn-width-8_binary,1,0.8589815296566078,1.0,82.802
+SD,yeoh-pn-width-8_binary,2,0.8589815296566078,1.0,83.084
+SD,yeoh-pn-width-8_binary,3,0.8589815296566078,1.0,83.413
+SD,yeoh-pn-width-8_binary,4,0.8589815296566078,1.0,82.292
+SD,yeoh-pn-width-8_binary,5,0.8589815296566078,1.0,81.686
+SD,yeoh-pn-width-8_binary,6,0.8589815296566078,1.0,81.426
+SD,yeoh-pn-width-8_binary,7,0.8589815296566078,1.0,81.525
+SD,yeoh-pn-width-8_binary,8,0.8589815296566078,1.0,81.552
+SD,yeoh-pn-width-8_binary,9,0.8589815296566078,1.0,81.146
+SD,yeoh-pn-width-8_binary,10,0.8589815296566078,1.0,81.333
+SSDP+,yeoh-pn-width-8_binary,1,0.8314646201873049,1.0,71.636
+SSDP+,yeoh-pn-width-8_binary,2,0.831093912591051,1.0,60.668
+SSDP+,yeoh-pn-width-8_binary,3,0.8315361602497399,1.0,71.433
+SSDP+,yeoh-pn-width-8_binary,4,0.8294094693028097,1.0,69.549
+SSDP+,yeoh-pn-width-8_binary,5,0.8304370447450571,1.0,75.451
+SSDP+,yeoh-pn-width-8_binary,6,0.8296370967741934,1.0,58.25
+SSDP+,yeoh-pn-width-8_binary,7,0.8296240894901146,1.0,68.257
+SSDP+,yeoh-pn-width-8_binary,8,0.8296240894901146,1.0,80.203
+SSDP+,yeoh-pn-width-8_binary,9,0.8324206555671175,1.0,58.979
+SSDP+,yeoh-pn-width-8_binary,10,0.8319068678459939,1.0,60.256
+SMHDD,yeoh-pn-width-8_binary,1,0.8314646201873049,1.0,19.545
+SMHDD,yeoh-pn-width-8_binary,2,0.831093912591051,1.0,14.984
+SMHDD,yeoh-pn-width-8_binary,3,0.8315361602497399,1.0,19.822
+SMHDD,yeoh-pn-width-8_binary,4,0.8294094693028097,1.0,18.88
+SMHDD,yeoh-pn-width-8_binary,5,0.8304370447450571,1.0,20.236
+SMHDD,yeoh-pn-width-8_binary,6,0.8296370967741934,1.0,14.354
+SMHDD,yeoh-pn-width-8_binary,7,0.8296240894901146,1.0,18.368
+SMHDD,yeoh-pn-width-8_binary,8,0.8296240894901146,1.0,21.579
+SMHDD,yeoh-pn-width-8_binary,9,0.8324206555671175,1.0,14.776
+SMHDD,yeoh-pn-width-8_binary,10,0.8319068678459939,1.0,14.8

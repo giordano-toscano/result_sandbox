@@ -1,0 +1,4 @@
+﻿algorithm,average_quality,standard_deviation,average_supp+,average_time
+SD,0.63,0.17,0.95,5.29
+SMHDD,0.62,0.16,0.96,0.62
+SSDP+,0.62,0.16,0.96,2.60
